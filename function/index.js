@@ -17,7 +17,26 @@ function reassign() {
 reassign(); // выведет f2
 
 function reassign() {
-  console.log('f2')
+  console.log('переопределение функции -', 'f2')
 }
 
 //endregion
+
+/**Аргументы функции - arguments - позволяет получать данные аргумента функции в виде подобия массива*/
+//region
+
+function getArgument(x, y, z, elem = 50) {
+  console.log('Arguments ', arguments);
+  return Array.from(arguments).reduce((accum, item) => {
+    return accum += item;
+  });
+}
+console.log('sum parameter -', getArgument(5, 7, 8));; //Arguments(3)
+
+
+//использование rest параметров (остаточные параметры)
+function getArgument2(...arg) {
+  return arg.reduce((accum, item) => accum += item)
+}
+console.log('sum rest parameter -', getArgument2(5, 7, 8, 9, 11)); // 40
+//endregion *****************
