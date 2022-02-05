@@ -77,7 +77,7 @@ console.groupEnd();
 console.group('()=>')
 
 // 1 - стрелочные функции позволяют заменить написание ананимных функций
-// 2 - this  в стрелочной функциии ссылается на window
+// 2 - this  в стрелочной функциии ссылается на window.
 const f1 = (...arg) => {
   console.log('work');
   console.log(arg);
