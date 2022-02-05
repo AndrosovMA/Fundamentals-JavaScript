@@ -40,3 +40,34 @@ function getArgument2(...arg) {
 }
 console.log('sum rest parameter -', getArgument2(5, 7, 8, 9, 11)); // 40
 //endregion *****************
+
+/**Return и возвращаемые значения*********************************************************************/
+//region
+
+//**********суммирование значений массива
+const arr3 = [[3, 4, 5], [6, 7, 8]];
+
+console.group('return')
+
+function sumArr(arr) {
+  let s = 0;
+  for (let i = 0; i < arr.length; i++) {
+    s += sumArrIn(arr[i]);
+  }
+  return s;
+};
+
+function sumArrIn(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i];
+  }
+  return sum;
+};
+console.log(sumArr(arr3)); // данный код можно переписать через рекурсию.
+
+
+//********** return - перенос строки без () вызывает ошибку;
+
+console.groupEnd();
+//endregion ******************
