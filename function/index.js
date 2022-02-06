@@ -105,6 +105,26 @@ function fixUserName(str) {
 
 getUserName(fixUserName);
 
+// 3 - асинхронные callback функции  - которые работают с асинхронными запросами(функциями)
+/*
+async function pageLoder(callback) {
+ const data = await fetch('https://jsonplaceholder.typicode.com/todos/1');
+ callback(data);
+}
+*/
+function pageLoder(callback) {
+  fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then(response => response.json())
+  .then(json => callback(json))
+}
+
+function getAjax(data) {
+  console.log('запрос послан и принят');
+  console.log(data);
+}
+
+// pageLoder(getAjax);
+
 
 
 console.groupEnd();
