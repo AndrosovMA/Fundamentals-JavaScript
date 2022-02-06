@@ -196,6 +196,19 @@ function f2_3() {
 
 document.querySelector('.contex_4').addEventListener('click', f2_3);
 
+//2 - смена контекста с помощью call - позволяет вызывать функцию и передавать её необходимые аргументы и подменять контекст при запуске
+
+let count3 = 0
+
+function f3_3(count) {
+  console.log(this);
+  this.textContent = count3;
+  count3++;
+}
+
+document.querySelector('.contex_5').addEventListener('click', () => {
+  f3_3.call(document.querySelector('.contex_51'), count3);
+});
 
 console.groupEnd();
 //endregion ******************
