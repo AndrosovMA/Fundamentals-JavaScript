@@ -125,6 +125,27 @@ function getAjax(data) {
 
 // pageLoder(getAjax);
 
+// 4 - ад callback функции - большая вложенность что трудно поддерживать код
+function pageLoder2() {
+  fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then(response => response.json())
+  .then(json => {
+    console.log('послали запрос на страницу')
+    console.log('ответ сервера')
+    console.log(json);
+    fetch('https://jsonplaceholder.typicode.com/users/' + json.userId)
+    .then(response => response.json())
+    .then(json => {
+      console.log('послали запрос на страницу')
+      console.log('ответ сервера')
+      console.log(json);
+    })
+  })
+}
+
+// pageLoder2();
+
+
 
 
 console.groupEnd();
