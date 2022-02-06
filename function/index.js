@@ -145,7 +145,25 @@ function pageLoder2() {
 
 // pageLoder2();
 
+// 5 - обход ада callback функции
 
+function pageLoder3(url, callback) {
+  fetch(url)
+  .then(response => response.json())
+  .then(json => callback(json))
+}
+
+function getAjax3(data) {
+  console.log('запрос послан и принят - обход ад callback');
+  console.log(data);
+  pageLoder3('https://jsonplaceholder.typicode.com/users/' + data.userId, showUser)
+}
+
+function showUser(user) {
+  console.log(user);
+}
+
+pageLoder3('https://jsonplaceholder.typicode.com/todos/1', getAjax3);
 
 
 console.groupEnd();
