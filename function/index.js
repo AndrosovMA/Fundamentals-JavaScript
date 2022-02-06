@@ -169,7 +169,36 @@ pageLoder3('https://jsonplaceholder.typicode.com/todos/1', getAjax3);
 console.groupEnd();
 //endregion ******************
 
+/**Контекст и функции. Замена контекста, bind, call, apply. Частичные функции и вычисления************/
+//region
+console.group('контекст и this')
+// Контекст - область видимости + переменная this
 
+//1 - this - ссылка на объект, который вызывает код в данный момент (не работает со стрелочной функцией)
+
+let count = 0;
+
+function f1_3() {
+  console.log(count);
+  console.log(this); //window
+  // this.textContent = count;
+  count++;
+}
+
+f1_3()
+
+function f2_3() {
+  console.log(count);
+  console.log(this);
+  this.textContent = count;
+  count++;
+}
+
+document.querySelector('.contex_4').addEventListener('click', f2_3);
+
+
+console.groupEnd();
+//endregion ******************
 
 
 
