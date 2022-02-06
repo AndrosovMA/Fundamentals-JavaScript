@@ -86,3 +86,31 @@ f1(10, 20);
 
 console.groupEnd();
 //endregion ******************
+
+/**callback function**********************************************************************************/
+//region
+console.group('callback function')
+
+// 1 - callback - функция, которая передаётся в другую функцию в  качестве аргумента
+
+// 2 - синхронные - код запускается поэтапно
+function getUserName(fixFunc) {
+  const userName = '  Max ';
+  console.log(fixFunc(userName))
+}
+
+function fixUserName(str) {
+  return str.trim().toLowerCase();
+}
+
+getUserName(fixUserName);
+
+
+
+console.groupEnd();
+//endregion ******************
+
+
+
+
+
