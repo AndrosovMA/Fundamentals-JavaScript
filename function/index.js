@@ -210,6 +210,17 @@ document.querySelector('.contex_5').addEventListener('click', () => {
   f3_3.call(document.querySelector('.contex_51'), count3);
 });
 
+//3 - смена контекста с помощью apply - в отличие от call может в качестве аргументов принимать массив данных [], если много аргументов, то apply удобней
+
+
+
+
+
+
+
+
+
+
 console.groupEnd();
 //endregion ******************
 
