@@ -265,5 +265,25 @@ console.log(validatePassword()); //true
 console.groupEnd();
 //endregion ******************
 
+/**Function Expression VS Function declaration. Особенности объявления функций***********************/
+//region
+console.group('Function Expression VS Function declaration')
+
+// 1 - Function declaration
+// 1.1 JS интерпритатор поднимать данные функции при запуске документа - т.е. можно вызывать до объявления
+
+
+// 2 - Function Expression
+
+
+console.groupEnd();
+//endregion ******************
+
+
+
+
+
+
+
 
 
