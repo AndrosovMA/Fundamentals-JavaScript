@@ -236,9 +236,30 @@ document.querySelector('.contex_7').addEventListener('click', () => {
   sum51(3, 4, 5);
 });
 
+//6 - вытягивание методов
+const validate = {
+  password: 'hima',
+  email: 'pik@de',
+  isValid: false,
+  sayHi() {
+    console.log(this);
+    return (this.password.length > 6) ? true : false;
 
+    //можно записать в более привычной форме
+    //sayHi: function(){
+    //      console.log(this);
+    //      eturn (this.password.length > 6) ? true : false;
+    //}
+  }
+}
+console.log(validate.sayHi()); //false
+// ? можно ли заимствовать метод sayHi по своему усмотрению - можно
 
-
+const obj6 = {password: 'hellowww'};
+const validatePassword = validate.sayHi.bind(obj6);
+console.log(validatePassword()); //true
+obj6.password = '123';
+console.log(validatePassword()); //true
 
 
 console.groupEnd();
