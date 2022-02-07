@@ -212,7 +212,17 @@ document.querySelector('.contex_5').addEventListener('click', () => {
 
 //3 - смена контекста с помощью apply - в отличие от call может в качестве аргументов принимать массив данных [], если много аргументов, то apply удобней
 
+//4 - bind - привязка контекста
+let count4 = 0;
 
+function f3_4() {
+  console.log(this);
+  this.textContent = count4;
+  count4++;
+}
+
+const funcBind = f3_4.bind(document.querySelector('.contex_61'));
+document.querySelector('.contex_6').addEventListener('click', funcBind);
 
 
 
