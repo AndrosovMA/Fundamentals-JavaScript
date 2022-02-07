@@ -224,7 +224,17 @@ function f3_4() {
 const funcBind = f3_4.bind(document.querySelector('.contex_61'));
 document.querySelector('.contex_6').addEventListener('click', funcBind);
 
+//5 - частичные функции или функции с переопределенным аргументов (частичные вычисления)
+function sum5(a, b, c) {
+  console.log(arguments);
+  this.innerHTML = a + b + c;
+}
 
+const sum51 = sum5.bind(document.querySelector('.contex_71'), 10); //добавился аргумент и заменяет ...
+
+document.querySelector('.contex_7').addEventListener('click', () => {
+  sum51(3, 4, 5);
+});
 
 
 
