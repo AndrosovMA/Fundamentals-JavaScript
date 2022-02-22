@@ -279,7 +279,87 @@ console.group('Function Expression VS Function declaration')
 console.groupEnd();
 //endregion ******************
 
+/**Pure, impure, функции высшего порядка. Side эффекты***********************************************/
+//region
+console.group('Pure, impure, функции высшего порядка')
 
+// 1 - чистые функции - функции которые возвращают значения зависящие только от входящих аргументов или параметров, при этом всегда один и тот же рузультат
+//позволяет потенциально уменьшить кол-во багав
+function squad(n) {
+  return n ** 2;
+}
+
+console.log(squad(4));
+console.log(squad(4));
+
+
+// 2 - side effect -когда  функция изменяет состояние вне своего собственного контекста, то рузультат является side effect- не чистые функции
+// примеры API, изменение с DOM, alert, диалоговое окно
+
+
+// 3 - функции высшего порядка - функция которая может принять в качестве аргумента функцию и возратить какую либо функцию
+//функции в js являются своего рода объектами
+//функцией можно манипулировать как объектом
+
+function hellow() {
+  console.log('hi');
+}
+
+hellow.hi = 123;
+
+console.log(hellow.hi); //123
+console.log(hellow()); //undefined
+
+
+// пример №1 - функции высшего порядка
+
+const userFunc = {
+  age: 19,
+  password: 'qwert123',
+  agreeToTern: true
+}
+
+function checkAge(user) {
+  return user.age > 18;
+}
+
+function checkPassword(user) {
+  return user.password.length >= 6;
+}
+
+function checkAgreeToTern(user) {
+  return user.agreeToTern === false;
+}
+
+//напишем вспомогательную функ. которая будет принимать данные функции в качестве аргумента
+/*
+function validateFunc(obj, ...tests){
+    for (let i = 0; i < tests.length; i++) {
+        if (tests[i](obj) === false) return false;
+    }
+    return true;
+}
+console.log('пример функции высш порядка №1: ', validateFunc(userFunc, checkAge, checkPassword, checkAgreeToTern ));
+*/
+
+
+// изменим вспомогательную функцию для обработки нескольких пользователей и разных валидаций
+function createValidator(...tests) {
+  return function (obj) {
+    for (let i = 0; i < tests.length; i++) {
+      if (tests[i](obj) === false) return false;
+    }
+    return true;
+  }
+}
+
+const validator1 = createValidator(checkAge, checkPassword, checkAgreeToTern);
+const validator2 = createValidator(checkAge, checkPassword);
+console.log('пример функции высш порядка №1: ', validator1(userFunc), validator2(userFunc));
+
+
+console.groupEnd();
+//endregion ******************
 
 
 
