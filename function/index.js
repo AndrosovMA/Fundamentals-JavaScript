@@ -440,6 +440,44 @@ console.log('факториал равен: ', s1);
 console.groupEnd();
 //endregion ******************
 
+/**Замыкания******************************************************************************************/
+//region
+console.group('Замыкания')
+
+// 1 - счетчик на замыкании
+
+function createStep() {
+  let counter = 0;
+  return function () {
+    counter++;
+    console.log(counter);
+  }
+}
+
+let step = createStep();
+step();
+step();
+
+
+
+
+let aaa = (function () {
+  let counter = 0;
+
+  return function () {
+    counter++;
+    console.log(counter);
+  };
+})();
+
+aaa();
+aaa();
+
+
+
+console.groupEnd();
+//endregion ******************
+
 
 
 
