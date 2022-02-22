@@ -361,6 +361,84 @@ console.log('пример функции высш порядка №1: ', valida
 console.groupEnd();
 //endregion ******************
 
+/**Рекурсия******************************************************************************************/
+//region
+console.group('Рекурсия')
+
+// 1 - большую часть задать которые реализованы через рекурсию можно решить циклом - так же и обратно
+// перебор объектов с помощью рекурсии
+
+// задача №1 - вывести все фамилии родителей
+const users = {
+  'ivanov': {
+    age: 25,
+    parent: {
+      'ivanov-a': {
+        age: 45,
+      },
+      'ivanov-b': {
+        age: 43,
+        parent: {
+          'sergeev-a': {
+            age: 88,
+            'parent': {
+              'lionenko': {}
+            }
+          }
+        }
+      }
+    }
+  },
+  'kostenko': {
+    age: 56,
+    parent: {
+      'ignatenko': {},
+      'snezko': {
+        age: 45
+      }
+    }
+  },
+}
+
+function userParamsRecursion(obj) {
+  if (obj.parent !== undefined) {
+    for (let key in obj.parent) {
+      console.log(key);
+      userParamsRecursion(obj.parent[key]);
+    }
+  }
+}
+
+for (let key in users) {
+  userParamsRecursion(users[key]);
+}
+
+// задача №2 - вычисляем факториал = произведение чисел 1 * 2 * 3 *5
+function fact1(n) {
+  let s = 1;
+  for (let i = 1; i <= n; i++) {
+    s = s * i;
+  }
+  console.log('факториал равен: ', s);
+}
+
+fact1(3);
+
+//расчет факторилала через рекурсию
+let s1 = 1;
+
+function fact2(n) {
+  if (n === 0) return;
+  s1 = s1 * n;
+  fact2(n - 1);
+}
+
+fact2(3);
+console.log('факториал равен: ', s1);
+
+
+console.groupEnd();
+//endregion ******************
 
 
 
