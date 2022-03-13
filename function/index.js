@@ -167,6 +167,9 @@ pageLoder3('https://jsonplaceholder.typicode.com/todos/1', getAjax3);
 
 
 console.groupEnd();
+
+// 6  -
+
 //endregion ******************
 
 /**Контекст и функции. Замена контекста, bind, call, apply. Частичные функции и вычисления************/
