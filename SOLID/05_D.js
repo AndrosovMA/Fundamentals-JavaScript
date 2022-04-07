@@ -84,3 +84,4 @@ class Database {
 const db = new Database(new FetchClient());
 console.log(db.getData('rand')); //Promise { 'data from fetch' }
 
+
