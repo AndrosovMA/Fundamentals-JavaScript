@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T18:24:55.736Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YTDnQgw9Hky_xjaVhrkN" version="17.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-13T09:50:03.958Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="XE1FpS_ycLnJMRUfoU_N" version="17.4.1" type="github" pages="3">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -583,37 +583,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PQSi8R5GLZF1S8rmAbpE" name="TypeScript">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="nO5ZLyl0ZabmjWCtvtwb-1" value="" style="group;fontFamily=Times New Roman;rounded=0;shadow=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="40" width="134.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nO5ZLyl0ZabmjWCtvtwb-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;TypeScript&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;align=left;strokeColor=#6c8ebf;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="nO5ZLyl0ZabmjWCtvtwb-1">
-          <mxGeometry y="4.421052631578947" width="130.81348314606743" height="50.526315789473685" as="geometry" />
-        </mxCell>
-        <mxCell id="nO5ZLyl0ZabmjWCtvtwb-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAVgAAAFYCAYAAAAWbORAAAAV7ElEQVR4nO3dfZxWc/7H8fd3KmoqlCKWVNp0J+UufsSOKKEI5XapB5V1t1gi8ZO1NqtalH6rJGJDblK0Cku5CdVSSvc3IpWKSvd3M9/fH2c9IjPNdc2czznXueb1fDx67G478z2fYl5zzfec6xwJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAzF/cA6fBz5OOeAUC8XOPkdCsn7gEAIFsRWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjJSPewCUPd9+J33yhd36DepIxxxlt76VnbukZSuldRukTVuC/71ug7RfZalSRalyJWn/qlJuRalmdakCX70Zj39EiNwnX0idb3Vm69/WRRrQ05utX1reSwu/lqbOkqbOdJoxT/rqW2nFGqmgILU1KpSX6h0uNawrHVVXalDHq2UzqUl9ydn91SJNBBaIwI6d0sQp0ph3nV6fKK1YXbr1du6S5n8V/AoEVa1RTWp9knRRG692raQquaU7DkqHwAKGFi+ThoxyGj5a+mG9/fG+XyeNGi+NGu9UuZJ02bnSdZd4HdfE/tj4NU5yAQa+XCidf4NTg3ZO/YZHE9c9bd4qDXtFOr6T09ndnT6eHv0MZR2BBUK0fJXU5W6nYzoGWwGp7qlae+sj6ZQrnC79k9Oy7+KepuwgsEBInnlNatrBacSYzAnrnkaNlxqf5/Tky3FPUjYQWKCU1m+UOtzg1LW30/qNcU9TvE1bpO73OXW8yWnDprinyW4EFiiFRd9IJ1/m9MbEuCdJ35h3g9kXL4t7kuxFYIESmjpLOulSp3lL4p6k5OYslk653Gnm/LgnyU4EFiiBz2ZLba91sVwdELZVP0h5XZw+mx33JNmHwAJpmrNYanNtMvZbU7X2R+mcHk4Lv457kuxCYIE0/LhR6niT09of454kfKvXSm27Oa1ZG/ck2YPAAinyXrq6l9OCpXFPYuerb6XLbnfalR/3JNmBwAIpemaMNPa9uKew9+6n0j2PcceYMBBYIAXfr5N69i870ek3XJo0Ne4pko/AAim4c4DT9+viniI6BQVS195OGzfHPUmyEVigGF+vkJ57Pe4pord0udRncNl51W6BwALFeHCI085dcU8Rj4HPSTPmxT1FchFYYC/Wbyybr15/0vKY4BE1KBluuA3sxajx0rbt0R+32n7SQQdK+1eRduUHoV+xOrpZ9qsi9b3V67pLpBxehpUYgQX24rnXo9uDPPVY6eoLvM5oGTxva0+78qV5S6QPP5OeH+c0eXpwbW7YOuRJg+/1OqxW+GuXNQQWKMLaH6VPZtgfp1E9aeifvU49du8fV76c1PS3wa8/XOo1c77Uc4DTWx+FM0etGtLA3l6d2oazHtiDBYr0/jT7G2d3aitNe7n4uBam2VHShKFeI/r6Uu2TOiddc5E0ZxxxDRuBBYowaart9kCbU6SR/bwqVyrdOledL01+3qtm9fQ/t35t6d3hXsMe8Kq2X+nmwK8RWKAIMxfYrX1AVen5fl4VQtqka95QentY6pEsX066q5s0c4xXXstwZsCvEVigCJY3dbmrm9eBB4S7ZvOG0quPeZUrt/ePO75psC3R91avSlyCZYrAAoXYtEVaucZm7Zyc4Md6C3ktpfuuL/zSgsqVpAE9vT59wat5Q5vj45cILFCI1T/YXAIlSS0aSYfUtFlbknr3kE5u/svfa3OKNGus121dVOwrXISHwAKF2LjFbu0jC7nGNUw5OdKQPsH+brX9gv8+YahX3cNsj4tf4zpYoBCbDQNbo5rd2j85uoE0oq/XmSerRFcXIBwEFihEvuH1r5sM4/1zl50bzXFQNLYIgEJU2tdubZ55VXYQWKAQuaW8+H9vZi6wO4GGzEJggUJUybVbe/kqafpcu/WROQgsUIhDatpezvTEKJ4UUBYQWKAQFcpLh9SwW3/4aJ4UUBYQWKAIdX5jt3Z+vnTJbY4TXlmOwAJFaN7Idv0FS6V2PYhsNiOwQBFOPNr+VP9ns6VjL3L6eLr5oRADAgsUoWWzaI7z7Sopr4tTr0ecNm+N5piIBoEFitCgTnBD6ijs2Ck99KTU6FynF/5l/yQFRIPAAntxQetoj7fsO+nyO5yadnB6dmxwMgzJRWCBvbi4bTxvuZq7RLq6l1Pj9k5PjJK2bItlDJQSgQX2omWz4P6tcVmwVPrD/U5HtHa6d6DTitXxzYL0EVigGDdcHv+NA75fJ/3lCal2a6f21zv9+5O4J0IqCCxQjN93kOoZ3yQ7Vfn50rhJ0lnXOB17kdPQl9g+yGQEFijGPhWKfs5VnKbPlXr0capzptP9g7kNYiYisEAKrmwfPI01E61ZK/UZ7HTEmU7X/9lp4ddxT4SfEFggBTk50rMPeVU0vBF3aW3dJv3jRanhuezTZgoCC6SoUT2pzw2Zt1Wwp4KC3fu0ra50em9K3BOVXQQWSEPPa6QLz4p7itR99LnUuqtTXhenyZ/HPU3ZQ2CBNDgXPK212VFxT5KeSVOlU690uvgWp8XL4p6m7CCwQJqq5EpvPenVoE7ck6Tv1belJu2d7hzAjWWiQGCBEqhVQ3p3uNeRGXJ9bDq275Aefkpq2sFpwkdxT5PdCCxQQofVkiY/73VChl6+VZyly6V23Z2u7uW0cXPc02QnAguUwsEHShNHeJ1/RtyTlNyzY6UWFzpNnRX3JNmHwAKlVLmS9Nogr7/9yau84ZNoLS1eJp16hdOQl+KeJLsQWCAEzgWXcE0c4TPmvgXp2rlLuq6P0x//6rgPbUgILBCiU4+VZo7xuvGKILpJNPCfUufbnHbsjHuS5COwQMgqV5IG9faaOsrr9BPinqZkRr8jdbzJadv2uCdJNgILGDm+qTRphNerj/nInu0Vpjc/kK66y/F8sFIgsICxC8+S5ozzGtLHq2b1uKdJz8tvSfcMTOheRwYgsEAEKpSXuneWFo4PrjY49KC4J0pd36HSqPFxT5FMBBaI0P5Vg6sNvnrHa0Rfryb1454oNdf1cfpmZdxTJA+BBWKwTwXpqvOlWWO9Xh/s1eq4uCfau/UbpWvvZasgXQQWiJFzUvs86YPnvKaP9ureWcqtGPdUhXvnY2nse3FPkSwEFsgQzRtKQ/p4rXjf69FeXkccGvdEv9azv9POXXFPkRwEFsgw+1eV/vh7adFbXi8/6nVy87gn2m3BUk54pYPAAhmqfDnp4jbSx897ffKCV6e2UrkMuNfBwOfYi00VgQUS4KRjpJce8Zo7zqtLx+Cyr7hM+1KaMjO+4ycJgQUS5LdHSE8/6DX/zSC0OTF9Bb80gVexqSCwQALVPSwI7bSX4rnEa/Q70R8ziQgskGDHNpbefza46mDffaI77tLl0pzF0R0vqQgskHDOBVcdTB7pVfuQ6I77yYzojpVUBBbIEsc1kd57Jrr7HEydxT5scQgsIud93BNkryMPl955yqtSBO8G+2y2/TGSjsAicpu2xD1Bdmt8pNSrm/13sa++NT9E4hFYRI5HRNvreY3MtwrW/sg/y+IQ2DLuu++jP2Y2flEuWSZd2dNlzKvzffeROp5pf5xl39kfI8kIbBm1fqN0wwNOdc9ykV9us26D7cmRnAjPvRQUSINGSs0ucBo5Tro3g+7+f/4Z9tsE6zeYHyLRCGwZ9PJbUsNznP7vBWnb9uBmylGeePpyoe36lXOj+cN89a105jVONz/otHlr8HsD/yl9+kUkhy9W4yPtj7GVhyLuFYEtQ+YukfK6OHW+1WnVD7t//8PPgldhUZk533b9isYX3BcUSI89JzXt4DRxyq//vx59nLbvsJ0hFTWr2z86fMtW2/WTjsCWAVu2SXc/6tS8o9OkqYV/zB39nKZ9aT/LyjX2+765lezWXvi1dPpVTrf0ddqyrfCPmTk/M7YK9qkgVcm1PcaufNv1k47AZrk3JkpN2jv1HSrt2Fn0x+3YKXW6xWn5Ktt5Xnnbdn1JqmwQ2IIC6ZERUvOOTh99XvzHD3hGen9a+HOkY/sO+0viqla2XT/pCGyW+maldMGNTh1ucFq6PLXP+XqF1OZapx/W2801/FX7V3a/OTjc9RYslU67yum2vxX9qnVPBQXSFT2dVq4Jd5Z0fPe9/Zs6rF8hJx2BzTI7d0kPPyU1Ps+V6PlJcxZLrbs6k8tvJk6RZswLf909hfV+/Px8acDTUvMLnSan8Kp1T8tXSRfeHN9+bElmThevYPeOwGaRD/4jtbjQ6c4Bu89ql8QX86WWl7hQb6q8aYt0/QPR7EuGEdh5S6RWv3e6vZ/T1hRftRbm0y+Ck15xvD149L/t/76juu9BUhHYLLB6rdTlbqffXe00e1E4a65cI7W60umuv6f+Y3FRtmwL9nfnLQlntr058IDS/diany/1Gy61uMiFdreoEWOk6+6PNrKLvpHGTbI9Rq0aUrX9bI+RdAQ2wQoKpCEvBde0jhgT/n7bzl3S34YFJ8keH1myd2BN/lw66VKnCR+FO1tRWjQq+efOXSKdcoVTz/5O20K+vnPoS1L3+5wKCsJdtyg3P2i/NdGwnu362SDGJ/ugNKbPlf5wf7g/xhdl6XLppgedej8mXXiWlHei1+knqNDHSu/KD95IMGWm9MxrLvKL7k84Ov3P2fXfvdY+g8MP688Ne0VasdppRF+vGtXsjvPAP6TxH9qt/5Mo3siQdPFfrJcGP0fc6E5BEGqfEe8Zail48F6NasGv7TukDZuCt+BaRqo4owf6tN+DP26S1P766L4UfnOwNPLh4JtUmLyX/jpUuuexaP4sLz/qdXGbSA71C65xcrqVmEElAvtz/Z8O3hyA3ZyTVrzvVatGep/nfXBSL4o3WvwkJ0fqcoH055t8KJeVLfpG6va/Rb+RJGzlyklrJvtY9mCTFFj2YBPq+svCv94z6U5oqrTjKgVhfvj2aL93FxRIw0dL9do4Xd0rCGN+Cd4V9f604Hrbph2ii6sU/F1zgqt47MEmVG5Fqd/tXpffkZhv5ubOb13ySP7uROnSc6QX3wxxoBTs2Ck9O1Z6dqxTzepSq+Okk47xql9bOqxWELEcJ23eGmy/rNsgzVkkTZnpNHWWtGJ1tPP+5LJz+WEyFYn66mSL4Je8l87oGu0rl0w2+w1fqhMvK9dIjc5z+nFjeDNlo0oVpeWT4tkekNgiQESck556wPN2RUknHVP6s9qH1JT638H38OJ0asv2QKoIbMLVO1zq35Mo3HxlOH8H114stc8LZamsVK6c1PMa/n1LFYHNAj06S5e0i3uK+Bx6kHRx2/DWG/ZAdI++TpquHaUm9eOeIjkIbJYY9oBXozL6zppe3bwqhHi69qDq0iuPeu1TIbw1s0HlStL9N/LqNR0ENktUyZXe+IdXzepxTxKtRvWk6y4Nf92Tm0uDehOTn+vfk1f26SKwWeTIw6U3/s8rt2Lck0RnwJ1e5cvZrN29s3R3d5u1k6ZDnnTdJXFPkTwENsu0bCa9Nsir4r5xT2KvS0epXSvbY/zlj17XXGR7jExX+5BgCwrpI7BZqM0p0pgsj2zDetLj99h/0TsnDb3fq1sn80NlpAMPkCY8Wfa2nsJCYLNU21OlCUO9Dqga9yThq1pZenGAN3n2VmFycqQhfbxuuSqa42WK3IrBllNZPXkaBgKbxU4/Qfrwn16H14p7kvBU3Fca87jXMUdFe1znpEfu8hrU227PN5MceID07+FeJzePe5JkI7BZrulvpf+84nVGy7gnKb0K5aUX+sf7Z7nxCulfT9jezzVudQ+TJo8krmEgsGXAQdWlt4d59eoevBMniartJ40f6nVB67gnCfa4v3jN68yT454kfB3ypCkveh1VN+5JskNibpogcbOXMHw8Xera22nB0rgnSV2DOtLrgzPvi76gQBr8gnTvwOTfICa3ovT3u7x6dI57kuJxsxdkrP9pIc0Y7dW7hzL+KoOcHOmmK6TPX828uEq755s7zuvy84J92qRxLrhN49x/JSOuSZOofyV4BRuupculOwc4vfK2InsYX6qObhBchnXa8XFPkroZ86T7Bjm9MSn8B1BaOO146aHbkrfXmqRXsIkZVCKwVmYvkh560unFN4PnfcWpQZ3g/e6dzw5eISbR9LnS4yOdXnhT2lrKR56HrXw56aI20p+6ep3QNO5pSobAGiGwtr5ZGTzG5OnRTt+sjO645ctJ55wmdevk1a5Vck/E7WndBum516WXJzh9PCPenxKObypddo7XJe2S/6ghAmuEwEajoECaNE0aN8npjYnBA/XCViVXan2SdHYrrw55yvqbiKxcI419T3rvU6cP/iOt+sH2eNX3Dx6Dk3ei19mtpPq1bY8XJQJrhMDGY8ky6dMvpKmznD6bLS1eprQeGX7wgdLhh0jNG0otGnm1aCQd10Rl+naA85YEWwmzFjrNWSTNXyp9+520aUt661TJDZ7dVb92cM1zswZeRzcInu6Q1C2W4hBYIwQ2c2zbHpwk27BZ2rBJ2rJN2r7jvw/py5H2rxK8ijr0IGnffeKeNjk2b90d2nUbgt9btyE4239A1d3/+VNYo3q7cCYhsEYILIAkBTZLf4gAgPgRWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABwAiBBQAjBBYAjBBYADBCYAHACIEFACMEFgCMEFgAMEJgAcAIgQUAIwQWAIwQWAAwQmABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQrf4fPX1FJfKB808AAAAASUVORK5CYII=;fontFamily=Times New Roman;" vertex="1" parent="nO5ZLyl0ZabmjWCtvtwb-1">
-          <mxGeometry x="76.21629213483146" y="2" width="57.53370786516854" height="57.53370786516854" as="geometry" />
-        </mxCell>
-        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="594" y="49" width="59" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="595" y="20" width="58" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-3" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- основная тема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="15" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-4" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- вспомогательная тема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="45" width="135" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,7 +598,7 @@
           <mxGeometry x="77.14" y="7" width="50.1" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-2oy3BAnAzkFLReVeeen-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="601" y="54" width="57" height="20" as="geometry" />
+          <mxGeometry x="601" y="83" width="57" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-2oy3BAnAzkFLReVeeen-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="600" y="25" width="58" height="20" as="geometry" />
@@ -636,7 +607,7 @@
           <mxGeometry x="670" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-2oy3BAnAzkFLReVeeen-4" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- вспомогательная тема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="50" width="135" height="30" as="geometry" />
+          <mxGeometry x="670" y="79" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9Vb3gYHi-9FIllxrC1K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1" source="S9Vb3gYHi-9FIllxrC1K-1" target="S9Vb3gYHi-9FIllxrC1K-29">
           <mxGeometry relative="1" as="geometry" />
@@ -865,6 +836,176 @@
         </mxCell>
         <mxCell id="Qajlj1g08gM4tfw4Oij9-54" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;При написании на хуках единственная классовая компонента которая используется&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="260" y="610" width="178.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-4" value="&lt;b&gt;use hooks&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1175" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-21" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#FF0000;fillColor=#CCE5FF;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE8E3;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="600" y="55" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-24" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- подтема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1" source="9DtY97WlL2PXL9fPluBr-28" target="9DtY97WlL2PXL9fPluBr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1" source="9DtY97WlL2PXL9fPluBr-28" target="9DtY97WlL2PXL9fPluBr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-28" value="&lt;b&gt;Use hooks&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1730" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-29" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="129.5" y="1809" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-30" value="&lt;b&gt;shouldComponentUpdate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="9DtY97WlL2PXL9fPluBr-29">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9DtY97WlL2PXL9fPluBr-28" target="9DtY97WlL2PXL9fPluBr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-32" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;при использовании классовых компонет&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="271" y="1809" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="129.5" y="1847" width="331.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-34" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="9DtY97WlL2PXL9fPluBr-33">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-35" value="&lt;b&gt;React.memo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="9DtY97WlL2PXL9fPluBr-34">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-36" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;при использовании функциональных компонет&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="9DtY97WlL2PXL9fPluBr-33">
+          <mxGeometry x="141.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="131" y="1886" width="331.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-38" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="9DtY97WlL2PXL9fPluBr-37">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-39" value="&lt;b&gt;useMemo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="9DtY97WlL2PXL9fPluBr-38">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-40" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;позволяет запомнить результат функции и будет возвращать этот результат&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="9DtY97WlL2PXL9fPluBr-37">
+          <mxGeometry x="141.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="131" y="1923" width="331.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-42" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="9DtY97WlL2PXL9fPluBr-41">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-43" value="&lt;b&gt;useCalback&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="9DtY97WlL2PXL9fPluBr-42">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DtY97WlL2PXL9fPluBr-44" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;позволяет запомнить результат функции и будет возвращать этот результат&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="9DtY97WlL2PXL9fPluBr-41">
+          <mxGeometry x="141.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;способы взаимодействия со state в nativ React&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#D5E8D4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="1241" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="14" y="1300" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="ARrcln0MiIGIRNLSECNQ-3">
+          <mxGeometry width="208.7179487179487" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-5" value="&lt;b&gt;useState()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-4">
+          <mxGeometry width="132.82051282051282" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-6" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- первым параметром передается state&lt;br&gt;- изменение делать только через setState&lt;br&gt;- используется если логика примитивная&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-3">
+          <mxGeometry x="134.24358974358975" width="235.75641025641025" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="14.5" y="1380" width="369.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-8" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="ARrcln0MiIGIRNLSECNQ-7">
+          <mxGeometry width="208.43589743589743" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-9" value="&lt;b&gt;useReducer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-8">
+          <mxGeometry width="132.64102564102564" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-10" value="&lt;i style=&quot;font-size: 11px&quot;&gt;- первым параметром reducer&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;- вторым параметром первоначальный state&lt;br&gt;- применяется логика первоначального state более сложная&amp;nbsp;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-7">
+          <mxGeometry x="134.0621794871795" width="235.4378205128205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-2" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: rgb(167 , 29 , 93)&quot;&gt;const &lt;/span&gt;&lt;span style=&quot;color: rgb(99 , 163 , 92)&quot;&gt;[&lt;/span&gt;&lt;font color=&quot;#0086b3&quot;&gt;state&lt;/font&gt;&lt;span style=&quot;color: rgb(99 , 163 , 92)&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 134 , 179)&quot;&gt;setState&lt;/span&gt;&lt;span style=&quot;color: rgb(99 , 163 , 92)&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;color: rgb(167 , 29 , 93)&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-style: italic&quot;&gt;useState&lt;/span&gt;&lt;span style=&quot;color: rgb(99 , 163 , 92)&quot;&gt;(&lt;/span&gt;&#39;true&#39;);&lt;br&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="16.25" y="1338" width="370" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-6" value="&lt;pre style=&quot;background-color: #ffffff ; color: #333333 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 7 5pt&quot;&gt;&lt;span style=&quot;white-space: normal ; color: rgb(167 , 29 , 93)&quot;&gt;const &lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(0 , 134 , 179)&quot;&gt;state&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(0 , 134 , 179)&quot;&gt;dispatch&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(167 , 29 , 93)&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;white-space: normal ; font-style: italic&quot;&gt;useReducer&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;reducer&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;initialState&lt;/span&gt;&lt;span style=&quot;white-space: normal ; color: rgb(99 , 163 , 92)&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="13.379999999999999" y="1429" width="371.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-1" value="&lt;i&gt;React v.16.13.1&lt;/i&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250.62" y="1256" width="104" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-7" value="&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;использование hook из библиотеки react-redux&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#D5E8D4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1241" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-8" value="&lt;i&gt;react-redux v.6.2.1&lt;/i&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="677.62" y="1256" width="123.38" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="428" y="1460" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-10" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="gpFjyDRuruFxBCGwDtl5-9">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-11" value="&lt;b&gt;useDispatch()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="gpFjyDRuruFxBCGwDtl5-10">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpFjyDRuruFxBCGwDtl5-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- первым параметром передается state&lt;br&gt;- изменение делать только через setState&lt;br&gt;- используется если логика примитивная&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="gpFjyDRuruFxBCGwDtl5-9">
+          <mxGeometry x="141.5" width="248.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-1" value="!" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#FF0000;fillColor=#FFFFCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="433" y="1301.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;для работы API hooks библиотеки react-redux необходимо обернуть приложение в компоненту &amp;lt;Provider&amp;gt;,что бы store был доступен по всему дереву&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1281" width="366" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="424" y="1580" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="toYEcXmnjEeZNCqHdpGE-3">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-5" value="&lt;b&gt;useSelector()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="toYEcXmnjEeZNCqHdpGE-4">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-6" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- первым параметром передается state&lt;br&gt;- изменение делать только через setState&lt;br&gt;- используется если логика примитивная&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="toYEcXmnjEeZNCqHdpGE-3">
+          <mxGeometry x="141.5" width="248.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="toYEcXmnjEeZNCqHdpGE-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;use - приставка, которая означает договоренность среди разработчиков, что это является hooks&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="1171" width="298.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PQSi8R5GLZF1S8rmAbpE" name="TypeScript">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nO5ZLyl0ZabmjWCtvtwb-1" value="" style="group;fontFamily=Times New Roman;rounded=0;shadow=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="40" width="134.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nO5ZLyl0ZabmjWCtvtwb-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;TypeScript&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;align=left;strokeColor=#6c8ebf;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="nO5ZLyl0ZabmjWCtvtwb-1">
+          <mxGeometry y="4.421052631578947" width="130.81348314606743" height="50.526315789473685" as="geometry" />
+        </mxCell>
+        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="594" y="49" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="595" y="20" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-3" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- основная тема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="15" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S85Ba9NOVn1ySiQZeN5Z-4" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;- вспомогательная тема&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="45" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
