@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T15:03:08.161Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="t7G4RioR2-SqXZ2Jm0MG" version="17.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-14T08:17:38.224Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1ZS8p5TapsRz-V8vkEpO" version="17.4.1" type="github" pages="3">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,7 +870,7 @@
         <mxCell id="ARrcln0MiIGIRNLSECNQ-8" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="ARrcln0MiIGIRNLSECNQ-7">
           <mxGeometry width="208.43589743589743" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ARrcln0MiIGIRNLSECNQ-9" value="&lt;b&gt;useReducer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-8">
+        <mxCell id="ARrcln0MiIGIRNLSECNQ-9" value="&lt;b&gt;useReducer()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-8">
           <mxGeometry width="132.64102564102564" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ARrcln0MiIGIRNLSECNQ-10" value="&lt;i style=&quot;font-size: 11px&quot;&gt;- первым параметром reducer&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;- вторым параметром первоначальный state&lt;br&gt;- применяется логика первоначального state более сложная&amp;nbsp;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="ARrcln0MiIGIRNLSECNQ-7">
@@ -943,19 +943,19 @@
           <mxGeometry x="530" y="1466" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-1" value="&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;использование методов из библиотеки redux&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#D5E8D4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1870" width="290" height="20" as="geometry" />
+          <mxGeometry x="20" y="1720" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-2" value="&lt;i&gt;redux v.6&lt;/i&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="247.24" y="1885" width="83.38" height="24" as="geometry" />
+          <mxGeometry x="253.24" y="1735" width="83.38" height="24" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-3" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="14.000000000000027" y="1922" width="220" height="30" as="geometry" />
+          <mxGeometry x="20.00000000000003" y="1772" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-4" value="&lt;b&gt;createStore()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="aor9f3Pq4PERr85Y9A50-3">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-5" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="14.000000000000027" y="1965" width="220" height="30" as="geometry" />
+          <mxGeometry x="20.00000000000003" y="1815" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-6" value="&lt;b&gt;combaineReducer()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="aor9f3Pq4PERr85Y9A50-5">
           <mxGeometry width="140" height="30" as="geometry" />
