@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T08:38:47.985Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="l9k78PhGR_FS6AU_hS9E" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:35:28.660Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="u0q-6-HHt7nA2WRATm6c" version="17.4.5" type="github" pages="5">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,7 +624,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React">
+  <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1071,6 +1071,32 @@
         </mxCell>
         <mxCell id="PD6hDpa46rq6ElXXufVk-6" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;it&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;name test&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;() =&amp;gt; {})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;test&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;name test&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;() =&amp;gt; {})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="540" y="263" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2cpFE84rXAUl09A-GSZA" name="ComputerScience">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7x9al3Kc4FwqhvfdBbGp-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="240" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7x9al3Kc4FwqhvfdBbGp-2" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Мемоизация&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="7x9al3Kc4FwqhvfdBbGp-1">
+          <mxGeometry width="77.55260674032534" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7x9al3Kc4FwqhvfdBbGp-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- сохранение результатов выполнения функций (кеширование) с целью предотвращения повторных вычислений&lt;br&gt;- является одним из способов оптимизации кода&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="7x9al3Kc4FwqhvfdBbGp-1">
+          <mxGeometry x="77.55" width="242.45" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="33Z-QEYNbPLhBhDqWLxv-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;react - React.memo(); useCallback();&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="115" y="310" width="298.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWkAJz_LWDw7WLx_Nb_-1" value="" style="group;fontFamily=Times New Roman;rounded=0;shadow=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="346" y="20" width="134.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSWkAJz_LWDw7WLx_Nb_-2" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;ComputerScience&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="gSWkAJz_LWDw7WLx_Nb_-1">
+          <mxGeometry y="4.421052631578947" width="130.81348314606743" height="50.526315789473685" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
