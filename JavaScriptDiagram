@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T07:10:27.774Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bE7KPOFejXLIBWPfUMAC" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-25T07:41:05.581Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Z9tQMgxxfZGGVNpsaiL_" version="17.4.6" type="github" pages="5">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
         <mxCell id="Qajlj1g08gM4tfw4Oij9-36" value="&lt;b&gt;React.memo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="Qajlj1g08gM4tfw4Oij9-35" vertex="1">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qajlj1g08gM4tfw4Oij9-37" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- оптимизация при сравнении состояний VDOM&lt;br&gt;- является HOC&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="Qajlj1g08gM4tfw4Oij9-38" vertex="1">
+        <mxCell id="Qajlj1g08gM4tfw4Oij9-37" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- оптимизация при сравнении состояний VDOM, оборачивает компоненту&lt;br&gt;- является HOC&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="Qajlj1g08gM4tfw4Oij9-38" vertex="1">
           <mxGeometry x="141.5" width="188.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qajlj1g08gM4tfw4Oij9-40" value="" style="group" parent="1" vertex="1" connectable="0">
