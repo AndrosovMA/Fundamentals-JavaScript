@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T09:01:39.348Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="of5tGanU0y3bUj3blGpJ" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-03T11:58:11.642Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gBScwOT2vmb17ywGbuNd" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="861" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -515,7 +515,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-0" value="" style="group" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="37" y="1690" width="518" height="565" as="geometry" />
+          <mxGeometry x="37" y="1690" width="518" height="394" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="NtigeP32zxyaiCV5tMN8-0" source="NtigeP32zxyaiCV5tMN8-6" target="NtigeP32zxyaiCV5tMN8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -738,7 +738,7 @@
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-13" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="110" y="2860" width="242.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-14" value="&lt;b&gt;Promise&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ZDSVb8nx2R8-2jfx2xZC-13">
+        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-14" value="&lt;b&gt;Fetch&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ZDSVb8nx2R8-2jfx2xZC-13">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;появились в ES6&lt;br&gt;имеет методы then, catch, finally&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="ZDSVb8nx2R8-2jfx2xZC-13">
