@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T07:11:27.992Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3JyDMBPGCs2hLNpu2EkA" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T07:14:28.026Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WR0Ruv9NoGpoU05_cPgf" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1751" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -79,10 +79,10 @@
           <mxGeometry x="3" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-5" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="sxj6Gc_WodGO8dL9yA5X-96" vertex="1" connectable="0">
-          <mxGeometry x="57.5" y="60" width="212.5" height="40" as="geometry" />
+          <mxGeometry x="57.5" y="60" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qsfWiDOvxh3cyYcVD-5P-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;let, const, var&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;b&gt;отличие&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-5" vertex="1">
-          <mxGeometry x="120" width="92.5" height="40" as="geometry" />
+        <mxCell id="qsfWiDOvxh3cyYcVD-5P-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;let, const, var (имеет hosting)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;b&gt;отличие&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-5" vertex="1">
+          <mxGeometry x="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-4" value="&lt;b&gt;типы переменных&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="sxj6Gc_WodGO8dL9yA5X-5" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -171,7 +171,7 @@
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-56" value="" style="group;strokeColor=none;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-97" vertex="1" connectable="0">
           <mxGeometry x="119.75" y="61" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sxj6Gc_WodGO8dL9yA5X-57" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;function Declaration&lt;br&gt;funcrion Expression&lt;br&gt;arrow function (замена ананимной)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-56" vertex="1">
+        <mxCell id="sxj6Gc_WodGO8dL9yA5X-57" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;function Declaration (имеет hosting )&lt;br&gt;funcrion Expression&lt;br&gt;arrow function (замена ананимной)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-56" vertex="1">
           <mxGeometry x="137.08185053380782" width="182.77580071174378" height="48" as="geometry" />
         </mxCell>
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-58" value="&lt;b&gt;Способы объявления функций&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-56" vertex="1">
