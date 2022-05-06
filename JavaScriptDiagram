@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T07:14:28.026Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WR0Ruv9NoGpoU05_cPgf" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T09:09:13.047Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="K4yFcVY5gE3PsvzsKQbc" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1488" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -534,7 +534,7 @@
           <mxGeometry x="38" y="2370" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-15" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="91" y="2689" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="80" y="2869" width="242.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-16" value="&lt;b&gt;Async/await&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1gK18IwfaftMK0mfkPkf-15" vertex="1">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -543,7 +543,7 @@
           <mxGeometry x="75.13" width="164.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-21" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="91.25" y="2640" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="80.25" y="2820" width="242.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-22" value="&lt;b&gt;Promise&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1gK18IwfaftMK0mfkPkf-21" vertex="1">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -635,13 +635,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-13" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="91.25" y="2512" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="91.25" y="2512" width="298.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-14" value="&lt;b&gt;Fetch&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
-          <mxGeometry width="75.12908777969018" height="40" as="geometry" />
+          <mxGeometry width="89.77925989672977" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
-          <mxGeometry x="75.13" width="164.87" height="39" as="geometry" />
+        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&amp;nbsp; является нативным методом&lt;br&gt;- используется на проекте ради уменьшения bundle (сборки), увеличения безопасности&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
+          <mxGeometry x="89.78" width="208.97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-26" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;до ES6&amp;nbsp;&lt;br&gt;- два режима работы (асинхронный и синхронный)&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
           <mxGeometry x="201.25494845360825" y="2462" width="190.36536082474225" height="39" as="geometry" />
@@ -715,6 +715,15 @@
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-5" value="&lt;b&gt;Конструктор&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="450" y="642" width="177.08" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ujt3hHeAEkV7aQWbu6PJ-8" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
+          <mxGeometry x="90" y="2620" width="242.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ujt3hHeAEkV7aQWbu6PJ-9" value="&lt;b&gt;Библиотека&lt;br&gt;Axios&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ujt3hHeAEkV7aQWbu6PJ-8">
+          <mxGeometry width="75.12908777969018" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ujt3hHeAEkV7aQWbu6PJ-10" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&amp;nbsp; является нативным методом&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="ujt3hHeAEkV7aQWbu6PJ-8">
+          <mxGeometry x="75.13" width="164.87" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
