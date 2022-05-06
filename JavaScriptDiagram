@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T09:09:13.047Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="K4yFcVY5gE3PsvzsKQbc" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T09:50:08.677Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="c7e8-ymv8vkm4zca32wh" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1026" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -640,8 +640,8 @@
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-14" value="&lt;b&gt;Fetch&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
           <mxGeometry width="89.77925989672977" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&amp;nbsp; является нативным методом&lt;br&gt;- используется на проекте ради уменьшения bundle (сборки), увеличения безопасности&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
-          <mxGeometry x="89.78" width="208.97" height="50" as="geometry" />
+        <mxCell id="ZDSVb8nx2R8-2jfx2xZC-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&amp;nbsp; является нативным методом&lt;br&gt;- используется на проекте ради уменьшения bundle (сборки), увеличения безопасности, version conflict (зависимость версии)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
+          <mxGeometry x="89.78" width="208.97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-26" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;до ES6&amp;nbsp;&lt;br&gt;- два режима работы (асинхронный и синхронный)&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
           <mxGeometry x="201.25494845360825" y="2462" width="190.36536082474225" height="39" as="geometry" />
