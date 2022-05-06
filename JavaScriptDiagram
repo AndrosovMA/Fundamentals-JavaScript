@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T13:23:13.290Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="o0UJBNUZ5P-QM3Kiag3j" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T07:01:07.509Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WVDJYteOt_POxmL8yrvc" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1751" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-59" value="" style="group;strokeColor=none;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-97" vertex="1" connectable="0">
           <mxGeometry x="119.75" y="114" width="321" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sxj6Gc_WodGO8dL9yA5X-60" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;pure, impure&lt;br&gt;higher-order-function&lt;br&gt;callback&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-59" vertex="1">
+        <mxCell id="sxj6Gc_WodGO8dL9yA5X-60" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;pure (идемпотентность), impure&lt;br&gt;higher-order-function&lt;br&gt;callback&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-59" vertex="1">
           <mxGeometry x="137.08185053380782" width="182.77580071174378" height="48" as="geometry" />
         </mxCell>
         <mxCell id="sxj6Gc_WodGO8dL9yA5X-61" value="&lt;b&gt;Типы функций&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="sxj6Gc_WodGO8dL9yA5X-59" vertex="1">
