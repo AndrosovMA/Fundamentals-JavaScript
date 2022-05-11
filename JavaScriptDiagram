@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T08:44:17.326Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uJO62lEO3T9ALuZiWj7J" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-11T09:20:13.185Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zv-Xb0EfJJ6jLSt3146l" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="756" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -705,10 +705,10 @@
           <mxGeometry x="37.4200000000003" y="23" width="124" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0VVK7HcrG1M_rS2PrqCW-5" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;micro tasks&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;strokeColor=#3333FF;" parent="LcHm3BFiv_gCKdGCTQtB-5" vertex="1">
-          <mxGeometry width="64.87" height="16" as="geometry" />
+          <mxGeometry y="-8" width="64.87" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="LcHm3BFiv_gCKdGCTQtB-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;&lt;i&gt;- promise .then &lt;br&gt;- mutation observer&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LcHm3BFiv_gCKdGCTQtB-5" vertex="1">
-          <mxGeometry x="24" y="14" width="100" height="30" as="geometry" />
+        <mxCell id="LcHm3BFiv_gCKdGCTQtB-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;&lt;i&gt;- объекты promise&lt;br&gt;- promise .then &lt;br&gt;- mutation observer&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LcHm3BFiv_gCKdGCTQtB-5" vertex="1">
+          <mxGeometry x="24" y="9" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LcHm3BFiv_gCKdGCTQtB-8" value="" style="group" parent="ZDSVb8nx2R8-2jfx2xZC-9" vertex="1" connectable="0">
           <mxGeometry x="120.26000000000022" y="191" width="123" height="36" as="geometry" />
