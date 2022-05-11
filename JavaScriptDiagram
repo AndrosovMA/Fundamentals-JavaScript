@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T09:20:13.185Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zv-Xb0EfJJ6jLSt3146l" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-11T09:32:46.142Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hbC2MVuWPPnQdYIJGdKL" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="756" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -393,7 +393,7 @@
           <mxGeometry x="665" y="45" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pIgZTzZBWvBvNPyEU08K-52" value="" style="group" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="508" y="2370" width="302" height="295" as="geometry" />
+          <mxGeometry x="508" y="2360" width="302" height="295" as="geometry" />
         </mxCell>
         <mxCell id="pIgZTzZBWvBvNPyEU08K-2" value="&lt;b&gt;Принципы разработки&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="pIgZTzZBWvBvNPyEU08K-52" vertex="1">
           <mxGeometry width="130" height="50" as="geometry" />
@@ -522,10 +522,10 @@
           <mxGeometry x="120" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-3" value="&lt;b&gt;Способы отправки запросов&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
-          <mxGeometry x="22" y="2370" width="190" height="50" as="geometry" />
+          <mxGeometry x="22" y="2760" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-15" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="2869" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="518" y="2879" width="242.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-16" value="&lt;b&gt;Async/await&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1gK18IwfaftMK0mfkPkf-15" vertex="1">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -534,7 +534,7 @@
           <mxGeometry x="75.13" width="164.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-21" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="80.25" y="2820" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="518.25" y="2830" width="242.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-22" value="&lt;b&gt;Promise&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1gK18IwfaftMK0mfkPkf-21" vertex="1">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -543,7 +543,7 @@
           <mxGeometry x="75.13" width="164.87" height="39" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-24" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="91.25" y="2462" width="300" height="40" as="geometry" />
+          <mxGeometry x="91.25" y="2852" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-25" value="&lt;b&gt;XMLHTTPRequest&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1gK18IwfaftMK0mfkPkf-24" vertex="1">
           <mxGeometry width="110" height="40" as="geometry" />
@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-13" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="92.25" y="2512" width="298.75" height="60" as="geometry" />
+          <mxGeometry x="92.25" y="2902" width="298.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-14" value="&lt;b&gt;Fetch&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="ZDSVb8nx2R8-2jfx2xZC-13" vertex="1">
           <mxGeometry width="89.77925989672977" height="40" as="geometry" />
@@ -563,7 +563,7 @@
           <mxGeometry x="89.78" width="208.97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-26" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;до ES6&amp;nbsp;&lt;br&gt;- два режима работы (асинхронный и синхронный)&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
-          <mxGeometry x="201.25494845360825" y="2462" width="190.36536082474225" height="39" as="geometry" />
+          <mxGeometry x="201.25494845360825" y="2852" width="190.36536082474225" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-16" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
           <mxGeometry x="460" y="1279" width="239.02999999999997" height="40" as="geometry" />
@@ -585,7 +585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UWYP2GwdHvTqWqoF4Aqa-0" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;по сути все запросы относятся к AJAX - asynchronous javascript and xml&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
-          <mxGeometry x="113.29" y="2405" width="197.42" height="56.5" as="geometry" />
+          <mxGeometry x="113.29" y="2795" width="197.42" height="56.5" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-2" value="" style="group" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="4" y="731" width="567" height="356" as="geometry" />
@@ -636,7 +636,7 @@
           <mxGeometry x="450" y="642" width="177.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-8" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="90" y="2600" width="242.5" height="40" as="geometry" />
+          <mxGeometry x="92.25" y="2970" width="242.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-9" value="&lt;b&gt;Библиотека&lt;br&gt;Axios&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ujt3hHeAEkV7aQWbu6PJ-8">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -648,40 +648,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-11" value="&lt;b&gt;Клиент-серверная архитектура API&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="405" y="2819" width="190" height="50" as="geometry" />
+          <mxGeometry x="32" y="2360" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- representation state transfer стиль общения компонентов, при котором все необходимые данные указываются в запросе&lt;br&gt;- сопоставляется с CRUD операциями&lt;br&gt;-самый распространенный стиль использует фундаментальную технологию HTTP как основу&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="565.95" y="2888" width="244.05" height="98" as="geometry" />
+          <mxGeometry x="192.95000000000005" y="2429" width="244.05" height="98" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-13" value="&lt;b&gt;REST&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="454" y="2885" width="110" height="40" as="geometry" />
+          <mxGeometry x="81" y="2426" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-16" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- simple object acceces protocol -&amp;nbsp;&amp;nbsp;является форматом обмена данными а не архитектурным стилем&lt;br&gt;- использует XML&lt;br&gt;- в отличии от REST не зависит от методов передачи данных&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="565.95" y="2999" width="244.05" height="77" as="geometry" />
+          <mxGeometry x="192.95000000000005" y="2540" width="244.05" height="77" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-17" value="&lt;b&gt;SOAP&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="454" y="2996" width="110" height="40" as="geometry" />
+          <mxGeometry x="81" y="2537" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-18" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- remote procedure call -&amp;nbsp; в запросе хранится и действие которое надо выполнить и данные которые для этого действия нужны&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- XML-RPC JSON-RPC&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="568.2" y="3089" width="244.05" height="67" as="geometry" />
+          <mxGeometry x="195.20000000000005" y="2630" width="244.05" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-19" value="&lt;b&gt;RPC&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="456.25" y="3086" width="110" height="40" as="geometry" />
+          <mxGeometry x="83.25" y="2627" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.115;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="qsfWiDOvxh3cyYcVD-5P-1" source="ujt3hHeAEkV7aQWbu6PJ-11" target="ujt3hHeAEkV7aQWbu6PJ-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435.71000000000004" y="2880.05" as="sourcePoint" />
-            <mxPoint x="464" y="2939" as="targetPoint" />
+            <mxPoint x="62.710000000000036" y="2421.05" as="sourcePoint" />
+            <mxPoint x="91" y="2480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.115;exitY=0.995;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="qsfWiDOvxh3cyYcVD-5P-1" source="ujt3hHeAEkV7aQWbu6PJ-11" target="ujt3hHeAEkV7aQWbu6PJ-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436.47" y="2879" as="sourcePoint" />
-            <mxPoint x="464" y="2939" as="targetPoint" />
+            <mxPoint x="63.47000000000003" y="2420" as="sourcePoint" />
+            <mxPoint x="91" y="2480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-25" value="&lt;b&gt;Способы обработки запросов&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="22" y="2750" width="190" height="50" as="geometry" />
+          <mxGeometry x="460" y="2760" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-5" value="" style="group;fillColor=none;strokeColor=default;" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="367.4999999999998" y="1690" width="452.5000000000002" height="270" as="geometry" />
@@ -766,6 +766,18 @@
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;- есть система приоритетов&lt;br&gt;- каждые 16 миллисекунд . - перерисовка экрана, так как&amp;nbsp; по default движок браузера настроен на обновление 60 кадров в сек. (request animation frame)&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
           <mxGeometry x="259.58000000000027" y="200" width="192.92" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q3IPNihgAjfMPru_WtuS-9" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
+          <mxGeometry x="94.25" y="3300" width="242.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3IPNihgAjfMPru_WtuS-10" value="&lt;b&gt;Web workers&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-9">
+          <mxGeometry width="75.12908777969018" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3IPNihgAjfMPru_WtuS-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;-&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="q3IPNihgAjfMPru_WtuS-9">
+          <mxGeometry x="75.13" width="164.87" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="q3IPNihgAjfMPru_WtuS-12" value="&lt;b&gt;Разное поизучать&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
+          <mxGeometry x="36" y="3230" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
