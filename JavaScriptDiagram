@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T06:37:57.576Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3bqKelM2W3DRzRvHlVsz" version="17.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-11T08:27:06.458Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0K8glDPNjXA8QI07FsE8" version="17.5.0" type="github" pages="6">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1085" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -465,7 +465,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-0" value="" style="group" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="37" y="1690" width="518" height="394" as="geometry" />
+          <mxGeometry x="36" y="1690" width="540" height="363" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="NtigeP32zxyaiCV5tMN8-0" source="NtigeP32zxyaiCV5tMN8-6" target="NtigeP32zxyaiCV5tMN8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -474,6 +474,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="NtigeP32zxyaiCV5tMN8-0" source="NtigeP32zxyaiCV5tMN8-6" target="NtigeP32zxyaiCV5tMN8-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujt3hHeAEkV7aQWbu6PJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="NtigeP32zxyaiCV5tMN8-0" source="NtigeP32zxyaiCV5tMN8-6" target="NtigeP32zxyaiCV5tMN8-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-6" value="&lt;b&gt;Интерфейсы Web API и работа на стороне browser&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="NtigeP32zxyaiCV5tMN8-0" vertex="1">
@@ -528,7 +531,7 @@
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NtigeP32zxyaiCV5tMN8-18" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;document getElementByid -&amp;nbsp;&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;динамическая коллекция - возвращает массивоподобный &lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;итерируемый объект&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;HTML Collection&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;document querySelector - возвращает статический список NodeList -&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;статическая коллекция&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="NtigeP32zxyaiCV5tMN8-16" vertex="1">
-          <mxGeometry x="120" width="310" height="110" as="geometry" />
+          <mxGeometry x="120" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1gK18IwfaftMK0mfkPkf-3" value="&lt;b&gt;Способы отправки запросов&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
           <mxGeometry x="22" y="2370" width="190" height="50" as="geometry" />
@@ -812,7 +815,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="1430" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
