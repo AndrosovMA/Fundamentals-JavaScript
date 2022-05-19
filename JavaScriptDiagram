@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T10:25:37.647Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vyrH-G-CDWQMlLQAiT3l" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-19T17:04:04.512Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xYhX7aQNGKfEzC64RaV1" version="17.5.0" type="github" pages="8">
   <diagram id="m5uVwCD0BoC0TeDfWF81" name="CSS">
     <mxGraphModel dx="1007" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1325" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -689,7 +689,7 @@
           <mxGeometry x="12" y="3100" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-5" value="" style="group;fillColor=none;strokeColor=default;dashed=1;dashPattern=1 1;" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="367.4999999999998" y="1690" width="452.5000000000002" height="270" as="geometry" />
+          <mxGeometry x="367.4999999999998" y="1690" width="452.5000000000002" height="276" as="geometry" />
         </mxCell>
         <mxCell id="ZDSVb8nx2R8-2jfx2xZC-9" value="" style="group;strokeColor=none;strokeWidth=1;" parent="q3IPNihgAjfMPru_WtuS-5" vertex="1" connectable="0">
           <mxGeometry width="449.0000000000002" height="220" as="geometry" />
@@ -771,6 +771,9 @@
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;- есть система приоритетов&lt;br&gt;- каждые 16 миллисекунд . - перерисовка экрана, так как&amp;nbsp; по default движок браузера настроен на обновление 60 кадров в сек. (request animation frame)&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
           <mxGeometry x="259.58000000000027" y="200" width="192.92" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yHj4I0k0lX6KMkCbbKYK-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;queue состоит из 3 очередей:&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;macro, micro, animation&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
+          <mxGeometry x="66.66" y="220" width="192.92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-9" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="84.25" y="4012" width="242.5" height="40" as="geometry" />
