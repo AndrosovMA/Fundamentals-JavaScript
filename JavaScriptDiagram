@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T17:04:04.512Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xYhX7aQNGKfEzC64RaV1" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-19T17:16:12.594Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="P5i7wMQSBK6uiXtIwU1m" version="17.5.0" type="github" pages="8">
   <diagram id="m5uVwCD0BoC0TeDfWF81" name="CSS">
     <mxGraphModel dx="1007" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,8 +772,8 @@
         <mxCell id="q3IPNihgAjfMPru_WtuS-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;- есть система приоритетов&lt;br&gt;- каждые 16 миллисекунд . - перерисовка экрана, так как&amp;nbsp; по default движок браузера настроен на обновление 60 кадров в сек. (request animation frame)&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
           <mxGeometry x="259.58000000000027" y="200" width="192.92" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yHj4I0k0lX6KMkCbbKYK-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;queue состоит из 3 очередей:&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;macro, micro, animation&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
-          <mxGeometry x="66.66" y="220" width="192.92" height="30" as="geometry" />
+        <mxCell id="yHj4I0k0lX6KMkCbbKYK-0" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;queue состоит из 3-x очередей:&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: x-small&quot;&gt;micro,&lt;/i&gt;&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;&amp;nbsp;animation,&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: x-small&quot;&gt;macro&lt;/i&gt;&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;&amp;nbsp;(указаны по приоритету)&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q3IPNihgAjfMPru_WtuS-5">
+          <mxGeometry x="40" y="220" width="219.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q3IPNihgAjfMPru_WtuS-9" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="84.25" y="4012" width="242.5" height="40" as="geometry" />
