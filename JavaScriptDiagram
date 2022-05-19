@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T10:15:57.629Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3FXZuB0vFKaIk1AVKxri" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-19T10:25:37.647Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vyrH-G-CDWQMlLQAiT3l" version="17.5.0" type="github" pages="8">
   <diagram id="m5uVwCD0BoC0TeDfWF81" name="CSS">
     <mxGraphModel dx="1007" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1812,6 +1812,24 @@
           <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="32fHZ43G_WWcEWYeAITy-3" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-1">
+          <mxGeometry x="181" width="289" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="280" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-5" value="&lt;pre&gt;&lt;pre class=&quot;rougeHighlight&quot; style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14.4px ; margin-top: 0px ; margin-bottom: 1.2rem ; overflow: auto ; color: rgb(221 , 221 , 221) ; background: rgb(41 , 43 , 44) ; border-left: 4px solid rgb(44 , 142 , 187) ; max-width: 100% ; border-radius: 3px ; padding: 0.6rem 1.2rem&quot;&gt;&lt;code style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; padding: 0px ; color: inherit ; background-color: transparent ; border-radius: 0px&quot;&gt;yarn upgrade &lt;span class=&quot;nt&quot; style=&quot;box-sizing: inherit ; color: rgb(249 , 38 , 114)&quot;&gt;--latest&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="32fHZ43G_WWcEWYeAITy-4">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-6" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-4">
+          <mxGeometry x="181" width="289" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-10" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="390" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-11" value="&lt;pre&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10px&quot;&gt;npm cache clean --force&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="32fHZ43G_WWcEWYeAITy-10">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="32fHZ43G_WWcEWYeAITy-12" value="&lt;b&gt;&lt;font color=&quot;#111111&quot; face=&quot;arial, arial, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;отчистить кэш&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-10">
           <mxGeometry x="181" width="289" height="70" as="geometry" />
         </mxCell>
       </root>
