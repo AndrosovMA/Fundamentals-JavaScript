@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:35:56.376Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aZkcJaknj2utEebnUsXd" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-23T19:23:54.734Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KDWql_pkX_0_VvanbvnQ" version="17.5.0" type="github" pages="8">
   <diagram id="m5uVwCD0BoC0TeDfWF81" name="CSS">
     <mxGraphModel dx="1350" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -919,7 +919,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="891" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1707,8 +1707,8 @@
         <mxCell id="j0qEN5koJtIuzocSy8GL-6" value="&lt;b&gt;React.createContex()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="j0qEN5koJtIuzocSy8GL-5">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j0qEN5koJtIuzocSy8GL-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;API - позволяет предавать данные по дереву компонент не используя передачу props на промежуточных уровнях&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="203.66" y="757" width="226" height="43" as="geometry" />
+        <mxCell id="j0qEN5koJtIuzocSy8GL-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;API - позволяет предавать данные по дереву компонент не используя передачу props на промежуточных уровнях&lt;br&gt;Создает объект Context&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="203.66" y="757" width="226" height="53" as="geometry" />
         </mxCell>
         <mxCell id="j0qEN5koJtIuzocSy8GL-16" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export const &lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;MyContext &lt;/span&gt;= &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;React&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;createContext&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;&#39;&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="62.26" y="797" width="300" height="38" as="geometry" />
