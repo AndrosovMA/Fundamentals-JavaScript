@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T08:01:00.643Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Pm140HHLsDdVaisQnazQ" version="17.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-25T08:27:56.005Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="791BewuGTvPZbJC23SoM" version="17.5.0" type="github" pages="7">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1363" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -627,7 +627,7 @@
           <mxGeometry x="452" y="622" width="177.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-8" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="qsfWiDOvxh3cyYcVD-5P-1">
-          <mxGeometry x="93.25" y="2918" width="300" height="40" as="geometry" />
+          <mxGeometry x="93.25" y="2916" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ujt3hHeAEkV7aQWbu6PJ-9" value="&lt;b&gt;Библиотека&lt;br&gt;Axios&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="ujt3hHeAEkV7aQWbu6PJ-8">
           <mxGeometry width="75.12908777969018" height="40" as="geometry" />
@@ -866,11 +866,14 @@
         <mxCell id="4coZE5YWGyLo4KNoWRzJ-2" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#f8cecc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#b85450;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
           <mxGeometry x="10" y="3520" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LnorI1RQG4tBM0wrmYdP-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://production-it-incubator.s3.eu-central-1.amazonaws.com/personal-page-front-public%3Ascreen/Image/0d7e6030-a17c-41a0-9725-c8540ad6ee1c_rest.png;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
+          <mxGeometry x="460" y="2476.05" width="362.16" height="190.42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="993" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
