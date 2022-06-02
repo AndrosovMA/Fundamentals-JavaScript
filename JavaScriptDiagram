@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T05:52:59.121Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dtLUGRruJpMCVxLge9Nf" version="17.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-02T06:07:30.166Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HA-_jn6DGboSawOc8jIV" version="17.5.0" type="github" pages="7">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,7 +873,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,24 +1231,6 @@
         </mxCell>
         <mxCell id="aor9f3Pq4PERr85Y9A50-2" value="&lt;i&gt;redux v.6&lt;/i&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1143.24" y="179.5" width="83.38" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="aor9f3Pq4PERr85Y9A50-3" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="920" y="209.5" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aor9f3Pq4PERr85Y9A50-4" value="&lt;b&gt;createStore()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="aor9f3Pq4PERr85Y9A50-3" vertex="1">
-          <mxGeometry width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aor9f3Pq4PERr85Y9A50-5" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="920" y="252.5" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aor9f3Pq4PERr85Y9A50-6" value="&lt;b&gt;combaineReducer()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="aor9f3Pq4PERr85Y9A50-5" vertex="1">
-          <mxGeometry width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iiP7icoT4Bk5MxHBw6-Z-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- инициализация store&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1061.37" y="209.5" width="168.63" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="iiP7icoT4Bk5MxHBw6-Z-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- объединение reducers&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1061.37" y="252.5" width="168.63" height="28" as="geometry" />
         </mxCell>
         <mxCell id="iiP7icoT4Bk5MxHBw6-Z-6" value="&lt;b&gt;Общие сведения&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="880.24" y="109" width="122" height="48" as="geometry" />
@@ -1962,6 +1944,36 @@
         </mxCell>
         <mxCell id="OIi06wJec0kcUZoX0r8n-22" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;User.tsx&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1252" y="787" width="146.95" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OIi06wJec0kcUZoX0r8n-23" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;createStore &lt;/span&gt;} &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;redux&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export const &lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;store &lt;/span&gt;= &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;createStore&lt;/span&gt;(rootReducer)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(204 , 120 , 50)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="253" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OIi06wJec0kcUZoX0r8n-24" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;{ &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;tasksReducer &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;} &lt;/font&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;./tasks-reducer&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;{ &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;todolistsReducer &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;} &lt;/font&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;./todolists-reducer&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;{ &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;combineReducers&lt;/span&gt;&lt;font color=&quot;#cc7832&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;} &lt;/font&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;redux&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;const &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;rootReducer = &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;combineReducers&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;({&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;tasks&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;tasksReducer&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;todolists&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;todolistsReducer&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;})&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(204 , 120 , 50)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="918.9999999999999" y="239.5" width="322" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="OIi06wJec0kcUZoX0r8n-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1280" y="223.87" width="360" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aor9f3Pq4PERr85Y9A50-3" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="OIi06wJec0kcUZoX0r8n-25" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aor9f3Pq4PERr85Y9A50-4" value="&lt;b&gt;createStore()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="aor9f3Pq4PERr85Y9A50-3" vertex="1">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iiP7icoT4Bk5MxHBw6-Z-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- инициализация store&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="OIi06wJec0kcUZoX0r8n-25" vertex="1">
+          <mxGeometry x="141.37" y="2.25" width="218.63" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OIi06wJec0kcUZoX0r8n-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="891" y="224" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aor9f3Pq4PERr85Y9A50-5" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="OIi06wJec0kcUZoX0r8n-26" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aor9f3Pq4PERr85Y9A50-6" value="&lt;b&gt;combaineReducer()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="aor9f3Pq4PERr85Y9A50-5" vertex="1">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iiP7icoT4Bk5MxHBw6-Z-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;- объединение reducers&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="OIi06wJec0kcUZoX0r8n-26" vertex="1">
+          <mxGeometry x="141.37" width="218.63" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
