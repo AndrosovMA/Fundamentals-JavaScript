@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T08:16:25.806Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HfK4b6dn9LK8KdCqmk_O" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:21:31.888Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="90k2e4pNVJqXFlHfQvX9" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2233,6 +2233,9 @@
         </mxCell>
         <mxCell id="KsEcSD5C2w320zHygo21-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i&gt;git branch - существующие ветки&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KsEcSD5C2w320zHygo21-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;crrl + k&amp;nbsp; создание коммита&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1210" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
