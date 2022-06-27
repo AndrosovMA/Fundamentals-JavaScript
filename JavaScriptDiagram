@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T15:25:22.207Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TAZC7YmaUkj9pzEO9SW7" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T15:28:58.389Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Nh7zFHCH1tNd03Xj7-7c" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2223,10 +2223,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="64j7ehU0mwJ4Xlc5bevO-2" value="dev" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1410" width="60" height="60" as="geometry" />
+          <mxGeometry x="-363.5" y="1750" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64j7ehU0mwJ4Xlc5bevO-3" value="tasks 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1530" width="60" height="60" as="geometry" />
+          <mxGeometry x="-328.5" y="1870" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KsEcSD5C2w320zHygo21-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;git branch&amp;nbsp; &amp;nbsp;&lt;br&gt;-просмотр существующих веток&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1200" width="270" height="30" as="geometry" />
@@ -2265,25 +2265,25 @@
           <mxGeometry x="1360" y="1530" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-12" value="tasks 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1530" width="60" height="60" as="geometry" />
+          <mxGeometry x="-248.5" y="1870" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XNPSjj1BA7bxHcqEHDBf-13" value="v 1.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1550" width="60" height="60" as="geometry" />
+        <mxCell id="XNPSjj1BA7bxHcqEHDBf-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;v 1.0&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1465" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;main&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1310" width="105" height="40" as="geometry" />
+          <mxGeometry x="-538.5" y="1650" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-16" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;dev&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1420" width="105" height="40" as="geometry" />
+          <mxGeometry x="-538.5" y="1760" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;feature.1.0_login&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1535" width="160" height="45" as="geometry" />
+          <mxGeometry x="-548.5" y="1875" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-18" value="tasks 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="377" y="1530" width="60" height="60" as="geometry" />
+          <mxGeometry x="-181.5" y="1870" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-19" value="v 2.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1300" width="60" height="60" as="geometry" />
+          <mxGeometry x="-205.5" y="1640" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-21" value="&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;обновить свою ветку feature от main (перенести из ветки main&amp;nbsp; комиты в свою ветку feature)&lt;/b&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1. заходит в свою ветку feature&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2. git merge main&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;преимущество&amp;nbsp;- не разрушает историю, т.е поверх всех тех коммитов которые были в ветке feature добавляется еще один коммит&lt;br&gt;! удобно когда над одной feature веткой работаю несколько разработчиков&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="20" y="1896" width="380" height="114" as="geometry" />
@@ -2429,26 +2429,53 @@
             <mxPoint x="24.58000000000004" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNPSjj1BA7bxHcqEHDBf-75" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;1. создание своей собственной ветки feature согласно п.I&lt;br&gt;&lt;br&gt;2. написание кода (решение поставленной задачи)&lt;br&gt;&lt;br&gt;3.&amp;nbsp;перед каждым pull requst&amp;nbsp; необходимо заребейзить в свою ветку feature коммиты с main ветки&lt;br&gt;&lt;br&gt;4. merge ветки feature через pull request (контребуторами указывать команду)&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1650" width="567" height="120" as="geometry" />
+        <mxCell id="XNPSjj1BA7bxHcqEHDBf-75" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;1. создание своей собственной ветки feature согласно п.I&lt;br&gt;&lt;br&gt;2. написание кода (решение поставленной задачи)&lt;br&gt;&lt;br&gt;3.&amp;nbsp;перед каждым pull requst&amp;nbsp; необходимо заребейзить в свою ветку feature коммиты с main ветки&lt;br&gt;&lt;br&gt;4. merge ветки feature через pull request (контребуторами указывать команду), наименование ветки main согласно п.II&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1200" width="610" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XNPSjj1BA7bxHcqEHDBf-76" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;feature.1.0_registration&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="11" y="1585" width="159" height="40" as="geometry" />
+        <mxCell id="XNPSjj1BA7bxHcqEHDBf-76" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;feature.1.0_registration&lt;/font&gt;&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-358.5" y="1330" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wnoVsLpgsDT650rOnkB--1" value="&lt;pre style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;где &lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;- &lt;span style=&quot;white-space: nowrap;&quot;&gt;первая цифра означает &lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;background-color: initial; white-space: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;задания какой недели выполняется&lt;br&gt;- вторая цифра:&lt;br&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial; white-space: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;0- обязательные задания по курсу&lt;br&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial; white-space: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1- дополнительные задания согласованные с командой&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial; white-space: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;2- дополнительные задания не согласованные с командой&lt;/i&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;glass=0;sketch=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1300" width="300" height="80" as="geometry" />
+          <mxGeometry x="-358.5" y="1220" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wnoVsLpgsDT650rOnkB--2" value="&lt;pre style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;где &lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;- &lt;span style=&quot;white-space: nowrap;&quot;&gt;первая цифра означает &lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;background-color: initial; white-space: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;задания какой недели выполняется&lt;br&gt;- вторая цифра недельная версия проекта&lt;/i&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;glass=0;sketch=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1510" width="310" height="40" as="geometry" />
+          <mxGeometry x="-380" y="1425" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QWLd2LD7754JGTWQC-iw-1" value="&lt;span style=&quot;line-height: 0.3;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;I&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#333333;fillColor=#f5f5f5;fontStyle=1;fontFamily=Times New Roman;align=center;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1280" width="30" height="30" as="geometry" />
+          <mxGeometry x="-388.5" y="1200" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QWLd2LD7754JGTWQC-iw-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;feature.1.0_login&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1382.5" width="130" height="27.5" as="geometry" />
+        <mxCell id="QWLd2LD7754JGTWQC-iw-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;feature.1.0_login&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-358.5" y="1302.5" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="QWLd2LD7754JGTWQC-iw-3" value="&lt;span style=&quot;line-height: 0.3;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;II&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#333333;fillColor=#f5f5f5;fontStyle=1;fontFamily=Times New Roman;align=center;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="1480" width="30" height="30" as="geometry" />
+          <mxGeometry x="-390" y="1395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-4" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;feature.1.0_registration&lt;/font&gt;&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-548.5" y="1930" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-6" value="tasks 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="1590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-7" value="tasks 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="1590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;main&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1370" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;feature.1.0_login&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1467.5" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-11" value="tasks 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="429.5" y="1590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-12" value="v 1.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-13" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;feature.1.0_registration&lt;/font&gt;&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1550" width="157.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWLd2LD7754JGTWQC-iw-14" value="v 1.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1360" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
