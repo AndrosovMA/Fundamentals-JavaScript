@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T15:39:00.716Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aZCHXc3aRWH1eG-KSpNu" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T15:39:12.105Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qBC_QvpeGqnM1GQw1i-3" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2262,22 +2262,22 @@
           <mxGeometry x="683.5" y="1337.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-21" value="&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;обновить свою ветку feature от main (перенести из ветки main&amp;nbsp; комиты в свою ветку feature)&lt;/b&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1. заходит в свою ветку feature&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2. git merge main&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;преимущество&amp;nbsp;- не разрушает историю, т.е поверх всех тех коммитов которые были в ветке feature добавляется еще один коммит&lt;br&gt;! удобно когда над одной feature веткой работаю несколько разработчиков&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="19" y="1917" width="380" height="114" as="geometry" />
+          <mxGeometry x="10" y="1796" width="380" height="114" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-22" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;обновить свою ветку feature от main (перенести из ветки main&amp;nbsp; комиты в свою ветку feature)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1. заходит в свою ветку feature&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2. git rebase main&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;преимущество&amp;nbsp;- вся fuature ветка которую разрабатывали окажется после всех коммитов которые были в main, история получается прозрачной&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1917" width="380" height="114" as="geometry" />
+          <mxGeometry x="420" y="1796" width="380" height="114" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-23" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;; background-color: initial; font-size: 11px;&quot;&gt;&lt;b&gt;merge - слияние&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="19" y="1881" width="380" height="30" as="geometry" />
+          <mxGeometry x="10" y="1760" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-24" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;; background-color: initial; font-size: 11px;&quot;&gt;&lt;b&gt;rebase - перебазирование&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1881" width="380" height="30" as="geometry" />
+          <mxGeometry x="420" y="1760" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="XNPSjj1BA7bxHcqEHDBf-53" target="XNPSjj1BA7bxHcqEHDBf-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="458.5" y="2161" width="30" height="30" as="geometry" />
+          <mxGeometry x="449.5" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="XNPSjj1BA7bxHcqEHDBf-56" target="XNPSjj1BA7bxHcqEHDBf-58">
           <mxGeometry relative="1" as="geometry" />
@@ -2286,28 +2286,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="514.75" y="2161" width="30" height="30" as="geometry" />
+          <mxGeometry x="505.75" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.047;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="XNPSjj1BA7bxHcqEHDBf-58" target="XNPSjj1BA7bxHcqEHDBf-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="2161" width="30" height="30" as="geometry" />
+          <mxGeometry x="554.5" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="618.5" y="2161" width="30" height="30" as="geometry" />
+          <mxGeometry x="609.5" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="XNPSjj1BA7bxHcqEHDBf-62" target="XNPSjj1BA7bxHcqEHDBf-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="2101" width="30" height="30" as="geometry" />
+          <mxGeometry x="674.5" y="1980" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-64" value="*" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="738.5" y="2101" width="30" height="30" as="geometry" />
+          <mxGeometry x="729.5" y="1980" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="608.5" y="2201" width="50" height="50" as="geometry" />
+          <mxGeometry x="599.5" y="2080" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-69" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;main&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XNPSjj1BA7bxHcqEHDBf-68">
           <mxGeometry y="30" width="50" height="20" as="geometry" />
@@ -2319,7 +2319,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-71" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="729.5" y="2051" width="50" height="50" as="geometry" />
+          <mxGeometry x="720.5" y="1930" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;feature&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XNPSjj1BA7bxHcqEHDBf-71">
           <mxGeometry width="50" height="20" as="geometry" />
@@ -2331,7 +2331,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="54" y="2051" width="310" height="210" as="geometry" />
+          <mxGeometry x="45" y="1930" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="XNPSjj1BA7bxHcqEHDBf-74">
           <mxGeometry y="120" width="30" height="30" as="geometry" />
