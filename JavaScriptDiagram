@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T09:24:54.739Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RcM75-H_67syTEo0o9Z1" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T09:28:44.496Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aO_9NrgKXm6JCCZt8W_B" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2241,16 +2241,19 @@
           <mxGeometry x="560" y="1240" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KsEcSD5C2w320zHygo21-4" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;установить галочку на поле amend при коммите&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1250" width="270" height="30" as="geometry" />
+          <mxGeometry x="850" y="1280" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KsEcSD5C2w320zHygo21-5" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;alt + crrl + z&amp;nbsp; &amp;nbsp;-возможность откатить файлы до предыдущей версии&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1310" width="270" height="30" as="geometry" />
+          <mxGeometry x="850" y="1320" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KsEcSD5C2w320zHygo21-6" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;откатить коммит - Revert Commit&amp;nbsp; -возможность откатить файлы до предыдущей версии, при этом история не теряется&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1400" width="270" height="50" as="geometry" />
+          <mxGeometry x="850" y="1370" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;откатить коммит - Reset Corent Branch to Here -возможность откатить файлы до указанной версии&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1460" width="270" height="50" as="geometry" />
+          <mxGeometry x="850" y="1424" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XNPSjj1BA7bxHcqEHDBf-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;crrl + shift +&amp;nbsp; k&amp;nbsp; &amp;nbsp;-запушить коммит&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1224" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
