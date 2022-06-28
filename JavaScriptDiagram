@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T09:59:17.008Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="quW3k-K-RvIUkZkyoBEP" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:00:23.687Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vYhrGm9lHpmEhEok5PlL" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2277,7 +2277,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="458.5" y="2070" width="30" height="30" as="geometry" />
+          <mxGeometry x="453.5" y="2070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" parent="1" source="XNPSjj1BA7bxHcqEHDBf-56" target="XNPSjj1BA7bxHcqEHDBf-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2286,28 +2286,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="514.75" y="2070" width="30" height="30" as="geometry" />
+          <mxGeometry x="509.75" y="2070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.047;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;endArrow=none;endFill=0;" parent="1" source="XNPSjj1BA7bxHcqEHDBf-58" target="XNPSjj1BA7bxHcqEHDBf-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="563.5" y="2070" width="30" height="30" as="geometry" />
+          <mxGeometry x="558.5" y="2070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="618.5" y="2070" width="30" height="30" as="geometry" />
+          <mxGeometry x="613.5" y="2070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" parent="1" source="XNPSjj1BA7bxHcqEHDBf-62" target="XNPSjj1BA7bxHcqEHDBf-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="683.5" y="2010" width="30" height="30" as="geometry" />
+          <mxGeometry x="678.5" y="2010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-64" value="*" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="738.5" y="2010" width="30" height="30" as="geometry" />
+          <mxGeometry x="733.5" y="2010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-68" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="608.5" y="2110" width="50" height="50" as="geometry" />
+          <mxGeometry x="603.5" y="2110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-69" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;main&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XNPSjj1BA7bxHcqEHDBf-68" vertex="1">
           <mxGeometry y="30" width="50" height="20" as="geometry" />
@@ -2319,7 +2319,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-71" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="729.5" y="1960" width="50" height="50" as="geometry" />
+          <mxGeometry x="724.5" y="1960" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;feature&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="XNPSjj1BA7bxHcqEHDBf-71" vertex="1">
           <mxGeometry width="50" height="20" as="geometry" />
@@ -2331,7 +2331,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-74" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="54" y="1960" width="310" height="210" as="geometry" />
+          <mxGeometry x="44" y="1960" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" parent="XNPSjj1BA7bxHcqEHDBf-74" vertex="1">
           <mxGeometry y="120" width="30" height="30" as="geometry" />
@@ -2406,7 +2406,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-75" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;1. переходим в ветку main&lt;br&gt;&lt;br&gt;2. подтягиваем возможные последние изменения с main&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;git pull&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;2. создаем свою ветку feature согласно п.I&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;git branch -m&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;&#39;namebranch&#39;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;3. обязательно сразу запушить вновь созданную ветку&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;git push --set-upstream origin&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;namebranch&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;3. написание кода (решение поставленной задачи)&lt;br&gt;&lt;br&gt;3.&amp;nbsp;перед каждым pull requst&amp;nbsp; необходимо заребейзить в свою ветку feature коммиты с main ветки&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;	&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;git rebase main &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;i&gt;&lt;b&gt;4. merge ветки feature через pull request (контребуторами указывать команду), наименование ветки main согласно п.II&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1180" width="340" height="300" as="geometry" />
+          <mxGeometry x="14" y="1180" width="340" height="300" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-76" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;feature.1.0_registration&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="710" y="1274.25" width="113.5" height="27.5" as="geometry" />
