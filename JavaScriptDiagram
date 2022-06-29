@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T06:31:15.727Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="k4Q1qKLcGpGJJ6y2aaYm" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-29T06:32:05.390Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rct66Qh8IITuMgKZUX_f" version="20.0.3" type="github" pages="8">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2256,7 +2256,7 @@
           <mxGeometry x="910" y="1437.5" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-11" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;откатить&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;(удалить)&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;коммит&amp;nbsp; с удаленного репозитория- &lt;br&gt;Reset Corent Branch to Here - Hard&amp;nbsp;&lt;br&gt;git push -f&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="1527" width="270" height="70" as="geometry" />
+          <mxGeometry x="1300" y="1499" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XNPSjj1BA7bxHcqEHDBf-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;v 1.0&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="710" y="1337" width="50" height="50" as="geometry" />
