@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T06:00:32.425Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DxIFiPxj3ANDhAWL_DGF" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-30T06:50:05.955Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Fmj1TbpyU3NtrBtjeRKJ" version="20.0.3" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,7 +873,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2037,7 +2037,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PQSi8R5GLZF1S8rmAbpE" name="TypeScript">
-    <mxGraphModel dx="1635" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2084,7 +2084,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R6DNIwwdMlNewjo0kUyN" name="UnitTest">
-    <mxGraphModel dx="1737" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2183,35 +2183,35 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jEQ9dt333oZUfBlFZf-_" name="npm, yarn">
-    <mxGraphModel dx="1737" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="32fHZ43G_WWcEWYeAITy-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="150" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-2" value="&lt;pre&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10px&quot;&gt;npm outdated&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="32fHZ43G_WWcEWYeAITy-1">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-2" value="&lt;pre&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10px&quot;&gt;npm outdated&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="32fHZ43G_WWcEWYeAITy-1" vertex="1">
           <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-3" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-1">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-3" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="32fHZ43G_WWcEWYeAITy-1" vertex="1">
           <mxGeometry x="181" width="289" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
           <mxGeometry x="90" y="280" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-5" value="&lt;pre&gt;&lt;pre class=&quot;rougeHighlight&quot; style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14.4px ; margin-top: 0px ; margin-bottom: 1.2rem ; overflow: auto ; color: rgb(221 , 221 , 221) ; background: rgb(41 , 43 , 44) ; border-left: 4px solid rgb(44 , 142 , 187) ; max-width: 100% ; border-radius: 3px ; padding: 0.6rem 1.2rem&quot;&gt;&lt;code style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; padding: 0px ; color: inherit ; background-color: transparent ; border-radius: 0px&quot;&gt;yarn upgrade &lt;span class=&quot;nt&quot; style=&quot;box-sizing: inherit ; color: rgb(249 , 38 , 114)&quot;&gt;--latest&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="32fHZ43G_WWcEWYeAITy-4">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-5" value="&lt;pre&gt;&lt;pre class=&quot;rougeHighlight&quot; style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14.4px ; margin-top: 0px ; margin-bottom: 1.2rem ; overflow: auto ; color: rgb(221 , 221 , 221) ; background: rgb(41 , 43 , 44) ; border-left: 4px solid rgb(44 , 142 , 187) ; max-width: 100% ; border-radius: 3px ; padding: 0.6rem 1.2rem&quot;&gt;&lt;code style=&quot;box-sizing: inherit ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; padding: 0px ; color: inherit ; background-color: transparent ; border-radius: 0px&quot;&gt;yarn upgrade &lt;span class=&quot;nt&quot; style=&quot;box-sizing: inherit ; color: rgb(249 , 38 , 114)&quot;&gt;--latest&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="32fHZ43G_WWcEWYeAITy-4" vertex="1">
           <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-6" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-4">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-6" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;будут перечислены все установленные зависимости, которые имеют более новые версии.&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="32fHZ43G_WWcEWYeAITy-4" vertex="1">
           <mxGeometry x="181" width="289" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-10" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-10" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
           <mxGeometry x="90" y="390" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-11" value="&lt;pre&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10px&quot;&gt;npm cache clean --force&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="32fHZ43G_WWcEWYeAITy-10">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-11" value="&lt;pre&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10px&quot;&gt;npm cache clean --force&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="32fHZ43G_WWcEWYeAITy-10" vertex="1">
           <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="32fHZ43G_WWcEWYeAITy-12" value="&lt;b&gt;&lt;font color=&quot;#111111&quot; face=&quot;arial, arial, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;отчистить кэш&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="32fHZ43G_WWcEWYeAITy-10">
+        <mxCell id="32fHZ43G_WWcEWYeAITy-12" value="&lt;b&gt;&lt;font color=&quot;#111111&quot; face=&quot;arial, arial, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15.2015px ; background-color: rgb(255 , 255 , 255)&quot;&gt;отчистить кэш&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="32fHZ43G_WWcEWYeAITy-10" vertex="1">
           <mxGeometry x="181" width="289" height="70" as="geometry" />
         </mxCell>
       </root>
@@ -2499,6 +2499,23 @@
         </mxCell>
         <mxCell id="IAA7dXJbUAY1ajObtxJt-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;git push --set-upstream origin &lt;font color=&quot;#ff3333&quot;&gt;namebranch&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;-запушить вновь созданную ветку&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="1517.5" width="270" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c6tcPq-N8EJjzZjVBb8y" name="Environment Dev">
+    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FzloBFTGEswE8oIToTkA-1" value="" style="group;fontFamily=Times New Roman;rounded=0;shadow=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FzloBFTGEswE8oIToTkA-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Swagger UI&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="FzloBFTGEswE8oIToTkA-1">
+          <mxGeometry y="3.6833333333333336" width="106.86456400742115" height="46.31666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="hxirKb2XzYjsHJ1FhzMB-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Создание документации &lt;/b&gt;- красивый интерфейс, который представляет документацию. Дает возможность просмотреть какие типы запросов есть, описание моделей и их типов данных.&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; color: rgb(0, 0, 0); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="590" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
