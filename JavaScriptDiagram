@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T06:06:25.131Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="g6Xt_XOIZkoC-JRvum2f" version="20.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-04T06:18:16.099Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-Ub5pUZ7TlDCZR3rC8OA" version="20.0.3" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2547,21 +2547,24 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eU8lmpgYFlIudWWYcVN8-18" value="&lt;b&gt;Presentation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="76" y="2696" width="84.75" height="20" as="geometry" />
+          <mxGeometry x="76" y="2844" width="84.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-19" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Уровень представления данных&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="160.75" y="2696" width="159" height="40" as="geometry" />
+          <mxGeometry x="160.75" y="2844" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-20" value="&lt;b&gt;Application&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="76" y="2750" width="84.75" height="20" as="geometry" />
+          <mxGeometry x="76" y="2898" width="84.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-21" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Прикладной уровень&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="160.75" y="2750" width="159" height="40" as="geometry" />
+          <mxGeometry x="160.75" y="2898" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;fontColor=#333333;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;fontColor=#333333;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU8lmpgYFlIudWWYcVN8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;fontColor=#333333;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-2" value="&lt;b&gt;Сетевая модель OSI&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -2579,47 +2582,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-5" value="&lt;b&gt;Data link&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75.25" y="2473" width="85.75" height="20" as="geometry" />
+          <mxGeometry x="75.25" y="2499" width="85.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-7" value="&lt;b&gt;Network&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75.25" y="2522" width="85.75" height="20" as="geometry" />
+          <mxGeometry x="76" y="2580" width="85.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-9" value="&lt;b&gt;Transport&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75.25" y="2598" width="85.75" height="20" as="geometry" />
+          <mxGeometry x="74" y="2650" width="85.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.006;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-11" value="&lt;b&gt;Session&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="76.25" y="2645" width="84.75" height="20" as="geometry" />
+          <mxGeometry x="76.25" y="2793" width="84.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eU8lmpgYFlIudWWYcVN8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="eU8lmpgYFlIudWWYcVN8-2" target="eU8lmpgYFlIudWWYcVN8-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="53" y="2655" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eU8lmpgYFlIudWWYcVN8-13" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Физический уровень - опилируем отправкой сигнала - кабель - интернет, wi-fi, blutouth, ик-порт ) - концентраторы и репиторы&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="161" y="2446" width="249" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="eU8lmpgYFlIudWWYcVN8-13" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Физический уровень&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161" y="2446" width="159" height="22" as="geometry" />
+        <mxCell id="eU8lmpgYFlIudWWYcVN8-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Канальный уровень - получили сигнал от первого уровня,&amp;nbsp; здесь проверяются ошибки при передачи данных,&amp;nbsp; опилируем понятием frame (кадр) где добавляется служебная информация - адрес отправителя и получателя - коммутаторы, мосты&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="161" y="2499" width="249" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="eU8lmpgYFlIudWWYcVN8-14" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Канальный уровень&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161" y="2473" width="159" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="eU8lmpgYFlIudWWYcVN8-15" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Сетевой уровень&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161" y="2522" width="159" height="68" as="geometry" />
+        <mxCell id="eU8lmpgYFlIudWWYcVN8-15" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Сетевой уровень - маршрутизация и IP &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;адрес&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;, происходит маршрутизация трафика как &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;таковая&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;. &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Апеллируем&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;понятием пакет данных. Маршрутизатор&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="161.75" y="2580" width="248.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-16" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Сеансовый уровень&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161" y="2645" width="159" height="40" as="geometry" />
+          <mxGeometry x="161" y="2793" width="159" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eU8lmpgYFlIudWWYcVN8-17" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Транспортный уровень&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161" y="2598" width="160" height="42" as="geometry" />
+        <mxCell id="eU8lmpgYFlIudWWYcVN8-17" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Транспортный уровень - контроль передачи данных&lt;br&gt;TCP UDP протоколы&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="159.75" y="2650" width="250.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU8lmpgYFlIudWWYcVN8-24" value="&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Open System Interconnection - модель взаимодействия открытх систем - описывает как работают сетевые устройства и компьютерные сети - по сути процесс передачи данных разделили на 7 ступеней&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="2388" width="270" height="52" as="geometry" />
