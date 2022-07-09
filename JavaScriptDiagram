@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T06:49:45.237Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZcvmfNxcKG_AFdfgykeB" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-09T06:57:37.997Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aeX_eqO7Apv0jiIoKrum" version="20.0.4" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2652,6 +2652,21 @@
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-4" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Преимущества:&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px; font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;- Простота&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px; font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;- Скорость - за счет не &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;блокирующего&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;ввода вывода достигается максим скор обработки запросов 1000 или десятки тыщ. запросов в сек&amp;nbsp; &amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="490" y="3090" width="310.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-5" value="&lt;b&gt;Node JS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3200" width="84.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-6" value="&lt;b&gt;Движок V8&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245.25" y="3230" width="84.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-7" value="&lt;b&gt;Libuv&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="472" y="3240" width="68" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-8" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Кросплатформенный I/O (ввод-вывод)&lt;br&gt;-Цикл событий Event Loop&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="480" y="3270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-9" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Трансляция JS кода в машинный код&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="130" y="3260" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
