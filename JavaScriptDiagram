@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T06:43:09.668Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6jQZH8gWrmF5_VZViTL0" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-09T06:49:45.237Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZcvmfNxcKG_AFdfgykeB" version="20.0.4" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2647,8 +2647,11 @@
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-2" value="&lt;b&gt;Node JS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="65.25" y="3090" width="84.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Программная&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;платформа для разработка серверных &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;приложений&lt;br&gt;- не можем взаимодействовать с операционной системой&lt;br&gt;- работа с файловой системой ограничена&lt;br&gt;- взаимодействует с устройствами ввода вывода через API написанным на С++&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="161.75" y="3080" width="310.25" height="100" as="geometry" />
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Программная&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;платформа для разработка серверных &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;приложений&lt;br&gt;- не можем взаимодействовать с операционной системой&lt;br&gt;- работа с файловой системой ограничена&lt;br&gt;- взаимодействует с устройствами ввода вывода через API написанным на С++&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="161.75" y="3090" width="310.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_5orRlsK-r3R-eJ7lFK-4" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Преимущества:&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px; font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;- Простота&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px; font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;- Скорость - за счет не &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;блокирующего&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;ввода вывода достигается максим скор обработки запросов 1000 или десятки тыщ. запросов в сек&amp;nbsp; &amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="490" y="3090" width="310.25" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
