@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T08:40:18.467Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PhQjfS4jMJVwxW-q-dA9" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-09T08:40:28.554Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DkTHnwO4BYVRr5DCmMS3" version="20.0.4" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2666,19 +2666,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-5" value="&lt;b&gt;Node JS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="355" y="3200" width="84.75" height="20" as="geometry" />
+          <mxGeometry x="355" y="3184" width="84.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-6" value="&lt;b&gt;Движок V8&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245.25" y="3230" width="84.75" height="20" as="geometry" />
+          <mxGeometry x="245.25" y="3214" width="84.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-7" value="&lt;b&gt;Libuv&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="472" y="3231" width="68" height="20" as="geometry" />
+          <mxGeometry x="472" y="3215" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-8" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Кросплатформенный I/O (ввод-вывод)&lt;br&gt;-Цикл событий Event Loop&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="472" y="3260" width="200" height="40" as="geometry" />
+          <mxGeometry x="472" y="3244" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q_5orRlsK-r3R-eJ7lFK-9" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Трансляция JS кода в машинный код&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="130" y="3260" width="200" height="40" as="geometry" />
+          <mxGeometry x="130" y="3244" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WpgyDREb547wSYwSbYp5-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;rounded=1;strokeColor=#666F78;" edge="1" parent="1" source="WpgyDREb547wSYwSbYp5-2" target="WpgyDREb547wSYwSbYp5-6">
           <mxGeometry relative="1" as="geometry">
