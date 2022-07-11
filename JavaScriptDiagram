@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T09:28:40.260Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eVUhK_xKbHII0QmgZHbm" version="20.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-11T14:50:50.440Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ToTIOhYSLauMWOmP7vp5" version="20.0.4" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -2559,6 +2559,14 @@
         <mxCell id="-GYESOTSHS0YTGluH9U7-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;b&gt;Контейнеры&amp;nbsp;—&lt;/b&gt; это способ упаковать приложение и все его зависимости в единый образ. Этот образ запускается в изолированной среде, не влияющей на основную операционную систему. Контейнеры позволяют отделить приложение от инфраструктуры: разработчикам не нужно задумываться, в каком окружении будет работать их приложение, будут ли там нужные настройки и зависимости. Они просто создают приложение, упаковывают все зависимости и настройки в единый образ. Затем этот образ можно запускать на других системах, не беспокоясь, что приложение не запустится.&lt;br&gt;&lt;b&gt;Docker&amp;nbsp;—&lt;/b&gt; это платформа для разработки, доставки и запуска контейнерных приложений. Docker позволяет создавать контейнеры, автоматизировать их запуск и развертывание, управляет жизненным циклом. Он позволяет запускать множество контейнеров на одной хост-машине.&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;container=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207" y="199" width="593" height="160" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pq8cMrEyCyenhLKkNl8m" name="Patterns">
+    <mxGraphModel dx="1667" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
