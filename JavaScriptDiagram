@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T14:51:02.739Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4-oaI0NRdu2I70lgjnB4" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-11T17:20:35.655Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8I9YtYsVG4AnEmgYdTf9" version="20.0.4" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1389" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2157,7 +2157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aIK1OA-hQKiLRevoDtLv" name="OtherQuestion">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2189,13 +2189,22 @@
           <mxGeometry x="181" width="289" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7CUzBZTGUlPMaht9W59P-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="430" width="470" height="70" as="geometry" />
+          <mxGeometry x="60" y="430" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7CUzBZTGUlPMaht9W59P-2" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;DNS и как он работает&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="7CUzBZTGUlPMaht9W59P-1">
           <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7CUzBZTGUlPMaht9W59P-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif;&quot;&gt;Domain Name System «система доменных имён»&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(55, 62, 69); font-family: SBSansDisplay, Helvetica, sans-serif;&quot;&gt;— технология, которая предоставляет браузеру возможность находить конкретный сайт по его имени с помощью DNS-серверов.&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#111111&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="7CUzBZTGUlPMaht9W59P-1">
-          <mxGeometry x="181" width="289" height="70" as="geometry" />
+        <mxCell id="7CUzBZTGUlPMaht9W59P-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Domain Name System «система доменных имён»&amp;nbsp;&lt;span style=&quot;color: rgb(55, 62, 69);&quot;&gt;— технология, которая предоставляет браузеру возможность находить конкретный сайт по его имени с помощью DNS-серверов.&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#111111&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="7CUzBZTGUlPMaht9W59P-1">
+          <mxGeometry x="181" width="499" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m9o07Wbe3jSUEshu_gKG-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="530" width="680" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m9o07Wbe3jSUEshu_gKG-2" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;что такое CI/CD&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="m9o07Wbe3jSUEshu_gKG-1">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m9o07Wbe3jSUEshu_gKG-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Непрерывная интеграция (Continuous Integration, CI) и непрерывная поставка (Continuous Delivery, CD) представляют собой культуру, набор принципов и практик, которые позволяют разработчикам чаще и надежнее развертывать изменения программного обеспечения.&lt;/span&gt;&lt;br style=&quot;transition: opacity 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, text-decoration 0.2s ease-in-out 0s, background-color 0.2s ease-in-out 0s, -webkit-text-decoration 0.2s ease-in-out 0s; quotes: &amp;quot;«&amp;quot; &amp;quot;»&amp;quot;; color: rgb(17, 17, 17);&quot;&gt;&lt;br style=&quot;transition: opacity 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, text-decoration 0.2s ease-in-out 0s, background-color 0.2s ease-in-out 0s, -webkit-text-decoration 0.2s ease-in-out 0s; quotes: &amp;quot;«&amp;quot; &amp;quot;»&amp;quot;; color: rgb(17, 17, 17);&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;CI/CD — это&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;transition: opacity 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, text-decoration 0.2s ease-in-out 0s, background-color 0.2s ease-in-out 0s, -webkit-text-decoration 0.2s ease-in-out 0s; quotes: &amp;quot;«&amp;quot; &amp;quot;»&amp;quot;; color: rgb(84, 142, 170); text-decoration-line: none;&quot; href=&quot;https://www.infoworld.com/article/3268053/devops-best-practices-the-5-methods-you-should-adopt.html&quot;&gt;одна из DevOps-практик&lt;/a&gt;&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;. Она также относится и к&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;transition: opacity 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, text-decoration 0.2s ease-in-out 0s, background-color 0.2s ease-in-out 0s, -webkit-text-decoration 0.2s ease-in-out 0s; quotes: &amp;quot;«&amp;quot; &amp;quot;»&amp;quot;; color: rgb(84, 142, 170); text-decoration-line: none;&quot; href=&quot;https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html&quot;&gt;agile-практикам&lt;/a&gt;&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;: автоматизация развертывания позволяет разработчикам сосредоточиться на реализации бизнес-требований, на качестве кода и безопасности.&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#111111&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="m9o07Wbe3jSUEshu_gKG-1">
+          <mxGeometry x="181" width="499" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
