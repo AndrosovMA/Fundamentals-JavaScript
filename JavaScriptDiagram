@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T11:52:18.258Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-23vT9rjvA7oNEBFN8pQ" version="20.1.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-17T13:13:16.337Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t4b9X_-LHd53AAQW5Qwv" version="20.1.1" type="github" pages="10">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1090" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2253,6 +2253,12 @@
         </mxCell>
         <mxCell id="N_e50vNEXrX4FuhZ4_nN-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&lt;i&gt;это&amp;nbsp;способ&amp;nbsp;постоянного&amp;nbsp;хранения&amp;nbsp;данных&amp;nbsp;внутри&amp;nbsp;&lt;br&gt;клиентского&amp;nbsp;браузера,&amp;nbsp;другими&amp;nbsp;словами&amp;nbsp;это&amp;nbsp;NOSQL&amp;nbsp;&lt;br&gt;хранилище&amp;nbsp;на&amp;nbsp;стороне&amp;nbsp;клиента.&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=default;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;sketch=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;container=0;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N_e50vNEXrX4FuhZ4_nN-4" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="200" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N_e50vNEXrX4FuhZ4_nN-5" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Что такое e-commerce &lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="N_e50vNEXrX4FuhZ4_nN-4">
+          <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
