@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:33:22.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t_q6_TKsnGDoTThcBZv7" version="20.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-08-01T09:42:39.672Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6hEn_Wcr7SyrFu9T1nVc" version="20.2.2" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -932,6 +932,9 @@
         </mxCell>
         <mxCell id="BQCkN1ClBqN5YrDHhC4s-14" value="&lt;b&gt;This&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
           <mxGeometry x="78" y="1592" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oOnd-WVBo03dV6C-F5jA-1" value="&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:7,5pt;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;// !this это всегда новый объект&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#808080;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;function &lt;/span&gt;&lt;span style=&quot;color:#ffc66d;&quot;&gt;User &lt;/span&gt;(name) {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;name &lt;/span&gt;= name&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;}&lt;br&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;u &lt;/span&gt;= &lt;span style=&quot;color:#cc7832;&quot;&gt;new &lt;/span&gt;&lt;span style=&quot;color:#ffc66d;&quot;&gt;User&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;alex&#39;&lt;/span&gt;) &lt;span style=&quot;color:#808080;&quot;&gt;// {name: &#39;alex&#39;}&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="qsfWiDOvxh3cyYcVD-5P-1">
+          <mxGeometry x="424.03" y="1510" width="240.97" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
