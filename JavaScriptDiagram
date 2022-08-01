@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:32:42.201Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xu9Wso4MY-x8jRiNfEKb" version="20.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-08-01T09:33:22.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t_q6_TKsnGDoTThcBZv7" version="20.2.2" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
-    <mxGraphModel dx="779" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-0" />
         <mxCell id="qsfWiDOvxh3cyYcVD-5P-1" parent="qsfWiDOvxh3cyYcVD-5P-0" />
@@ -919,7 +919,16 @@
           <mxGeometry width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BQCkN1ClBqN5YrDHhC4s-13" value="&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;!use strict -&amp;gt; this всегда = some object&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;use strict -&amp;gt; this  = чему угодно (null, underfind, obj ....)&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;1. global scope&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;2. function - this будет равен тому что стоит слева от точки&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;arrowFunction -&amp;nbsp; всегда возьмет this из внешнего лексического окружения&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;3. bind, call, apply&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;bind(this, arg1, arg2)() | call(this, arg1, arg2) apply(this, [arg1, arg2])&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;! привязать контекст можно только 1 раз&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;4. constructors&lt;/b&gt;&lt;b style=&quot;font-size: 10px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
-          <mxGeometry x="370" y="1412" width="400" height="180" as="geometry" />
+          <mxGeometry x="412.86" y="1340" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oOnd-WVBo03dV6C-F5jA-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="qsfWiDOvxh3cyYcVD-5P-1" source="BQCkN1ClBqN5YrDHhC4s-14" target="BQCkN1ClBqN5YrDHhC4s-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1612" />
+              <mxPoint x="350" y="1430" />
+              <mxPoint x="411" y="1430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BQCkN1ClBqN5YrDHhC4s-14" value="&lt;b&gt;This&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1">
           <mxGeometry x="78" y="1592" width="82.5" height="40" as="geometry" />
