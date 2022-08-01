@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:44:44.061Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MRk-sVNsQfUb_ILUG_YA" version="20.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-08-01T10:11:17.420Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="faSox20-3y-x418O8ApW" version="20.2.2" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -892,10 +892,10 @@
           <mxGeometry x="465" y="2853.05" width="362.16" height="190.42" as="geometry" />
         </mxCell>
         <mxCell id="xVJS19ixx9WG3Vd3DqbA-1" value="" style="group;strokeColor=none;fontFamily=Times New Roman;fontStyle=0" parent="qsfWiDOvxh3cyYcVD-5P-1" vertex="1" connectable="0">
-          <mxGeometry x="490.25" y="387.5" width="321" height="40" as="geometry" />
+          <mxGeometry x="490.25" y="387.5" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xVJS19ixx9WG3Vd3DqbA-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;является бъектом&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="xVJS19ixx9WG3Vd3DqbA-1" vertex="1">
-          <mxGeometry x="137.08185053380782" width="182.77580071174378" height="48" as="geometry" />
+        <mxCell id="xVJS19ixx9WG3Vd3DqbA-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- sctipt (global), fucntion, code block&lt;br&gt;является бъектом lexcivalEnvironment = {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;lexicalRecord:&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;outer:&amp;nbsp;&lt;br&gt;}&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="xVJS19ixx9WG3Vd3DqbA-1" vertex="1">
+          <mxGeometry x="137.08" width="192.92" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xVJS19ixx9WG3Vd3DqbA-3" value="&lt;b&gt;Лексическое окружение - lexicalEnvironment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="xVJS19ixx9WG3Vd3DqbA-1" vertex="1">
           <mxGeometry x="-40" width="177.08" height="40" as="geometry" />
