@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T14:37:30.764Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OnQz8PpsAebV_OmgOhYG" version="20.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-08-08T14:38:16.843Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="H_F8fBtrNmTzYb3uLAaI" version="20.2.3" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2553,7 +2553,7 @@
         <mxCell id="IAA7dXJbUAY1ajObtxJt-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;git push --set-upstream origin &lt;font color=&quot;#ff3333&quot;&gt;namebranch&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;-запушить вновь созданную ветку&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="1517.5" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ieNEVU5-pZgpdStDJ5E-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;git init&amp;nbsp;&amp;nbsp;&lt;br&gt;- инициализации package.json&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9ieNEVU5-pZgpdStDJ5E-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;npm init&amp;nbsp;&amp;nbsp;&lt;br&gt;- инициализации package.json&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="1670" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
