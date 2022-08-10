@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T14:38:16.843Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="H_F8fBtrNmTzYb3uLAaI" version="20.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-08-10T07:01:26.246Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8as3Kpa4C1Gn-2etxAm_" version="20.2.3" type="github" pages="9">
   <diagram id="J5_jhWHDNfPX91D7zcgr" name="JavaScript">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -952,7 +952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWZCCHXsR0fQcn5HBm0O" name="React,Redux">
-    <mxGraphModel dx="1635" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1626,7 +1626,7 @@
           <mxGeometry x="99.99999999999999" y="1240" width="346.62" height="90" as="geometry" />
         </mxCell>
         <mxCell id="v3SlbJRPc6RrdFSWC7QB-1" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="41.97000000000001" y="1200" width="220" height="30" as="geometry" />
+          <mxGeometry x="42.97000000000001" y="1200" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v3SlbJRPc6RrdFSWC7QB-2" value="&lt;b&gt;Правила иммутабельности&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="v3SlbJRPc6RrdFSWC7QB-1" vertex="1">
           <mxGeometry x="-20" width="160" height="30" as="geometry" />
