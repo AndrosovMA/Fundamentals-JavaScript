@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:02:19.893Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Gfxkz1Tf8WppLMFPAMUm" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:03:31.341Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4Lb0AEUMwfmncPR_DFMS" version="20.2.8" type="github" pages="2">
   <diagram id="3UJCgveRMn5TrkPPSegg" name="Page-1">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
           <mxGeometry x="323" y="30" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GKYuN85uZPgJe1WPFgC1-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;dependency enversion - высоуровневые веши не должны зависить от низкоуровневых&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="270" height="40" as="geometry" />
+          <mxGeometry x="80" y="1040" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YvDEOuhgs-y0SPBjVRqr-1" target="YvDEOuhgs-y0SPBjVRqr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -160,31 +160,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-1" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;8 структур данных JS&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="350" width="140" height="50" as="geometry" />
+          <mxGeometry x="14.89" y="120" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Stack - по принципу LIFO&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="422" width="340" height="30" as="geometry" />
+          <mxGeometry x="84.89" y="192" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. Queue - по принципу FIFO&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="460" width="340" height="29" as="geometry" />
+          <mxGeometry x="84.89" y="230" width="340" height="29" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YvDEOuhgs-y0SPBjVRqr-4" target="YvDEOuhgs-y0SPBjVRqr-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YvDEOuhgs-y0SPBjVRqr-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. Связанный список - связанный список (односторонний и двухсторонний).&amp;nbsp;&lt;br&gt;- Каждый узел информации состоит из двух частей - данных узла и ссылку на следующий узел&lt;br&gt;- Связанный список и массив являются линейными структурами данных&lt;br&gt;- Массив использует статическую память, Список связан - динамическую&lt;br&gt;- Массив - чтение из индекса быстрее&lt;br&gt;- Связанный список -&amp;nbsp; благодаря динамическому распределению, быстрее операции add/delete, так как требуется лишь незначительная нагрузка на память.&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="500" width="420" height="130" as="geometry" />
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. Связанный список - связанный список (односторонний и двухсторонний).&amp;nbsp;&lt;br&gt;- Каждый узел информации состоит из двух частей - данных узла и ссылку на следующий узел&lt;br&gt;- Связанный список и массив являются линейными структурами данных&lt;br&gt;- Массив использует статическую память, Список связан - динамическую&lt;br&gt;- Массив - чтение из индекса быстрее&lt;br&gt;- Связанный список -&amp;nbsp; благодаря динамическому распределению, быстрее операции add/delete, так как требуется лишь незначительная нагрузка на память.&lt;br&gt;линейная структура данных&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="84.89" y="270" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dev-gang.ru/static/storage/100752621215833240054154731827725469404.png;" parent="1" vertex="1">
-          <mxGeometry x="540" y="414.5" width="266.23" height="120" as="geometry" />
+          <mxGeometry x="544.89" y="184.5" width="266.23" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-11" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;4.&amp;nbsp; Set (множество) - коллекция уникальных значений&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="640" width="420" height="29" as="geometry" />
+          <mxGeometry x="84.89" y="410" width="420" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="dox8j-INEBpC5mLPEncY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dox8j-INEBpC5mLPEncY-1" target="dox8j-INEBpC5mLPEncY-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dox8j-INEBpC5mLPEncY-1" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;5.&amp;nbsp; Хэш таблица - структура данных ключ-значение&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;- используется hash функция для для преобразования ключей в список чисел и эти числа служат значениями &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;соответствующих&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;ключей&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="80" y="680" width="420" height="60" as="geometry" />
+          <mxGeometry x="84.89" y="450" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dox8j-INEBpC5mLPEncY-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dev-gang.ru/static/storage/118512806164529632348707512048307660443.png;" vertex="1" parent="1">
-          <mxGeometry x="550" y="559" width="200" height="146.03" as="geometry" />
+          <mxGeometry x="554.89" y="329" width="200" height="146.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
