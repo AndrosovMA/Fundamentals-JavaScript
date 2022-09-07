@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T19:44:37.771Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uk4hH_dTBREW-TQvbm_K" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:13:40.571Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="B3jdBnGGkNQr9AN1iy04" version="20.2.8" type="github" pages="2">
   <diagram id="3UJCgveRMn5TrkPPSegg" name="Page-1">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,24 +137,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hbcqzSsKlLhs2QD3DIOA" name="Page-2">
-    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GKYuN85uZPgJe1WPFgC1-1" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;собесы с Олегом&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GKYuN85uZPgJe1WPFgC1-1" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;собесы с Олегом&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="323" y="30" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GKYuN85uZPgJe1WPFgC1-2" value="" style="group;fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="1">
+        <mxCell id="GKYuN85uZPgJe1WPFgC1-2" value="" style="group;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="120" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKYuN85uZPgJe1WPFgC1-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;set map - хеш таблицы&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="GKYuN85uZPgJe1WPFgC1-2">
+        <mxCell id="GKYuN85uZPgJe1WPFgC1-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;set map - хеш таблицы&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="GKYuN85uZPgJe1WPFgC1-2" vertex="1">
           <mxGeometry x="120" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKYuN85uZPgJe1WPFgC1-4" value="&lt;b&gt;структуры данных&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="GKYuN85uZPgJe1WPFgC1-2">
+        <mxCell id="GKYuN85uZPgJe1WPFgC1-4" value="&lt;b&gt;структуры данных&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="GKYuN85uZPgJe1WPFgC1-2" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKYuN85uZPgJe1WPFgC1-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;dependency enversion - высоуровневые веши не должны зависить от низкоуровневых&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="GKYuN85uZPgJe1WPFgC1-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;dependency enversion - высоуровневые веши не должны зависить от низкоуровневых&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="160" y="290" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-1" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;8 струкnур данных JS&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Stack - по принципу LIFO&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. Queue - по принципу FIFO&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. Связанный список - связанный список&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
