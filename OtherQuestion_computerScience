@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:13:35.990Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PPSBDB_rPIluSxy1spGC" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:15:53.741Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-jlrcTvUobRBKvtcUhkR" version="20.2.8" type="github" pages="2">
   <diagram id="3UJCgveRMn5TrkPPSegg" name="Page-1">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="dox8j-INEBpC5mLPEncY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvDEOuhgs-y0SPBjVRqr-1" target="dox8j-INEBpC5mLPEncY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YvDEOuhgs-y0SPBjVRqr-1" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;8 структур данных JS&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="YvDEOuhgs-y0SPBjVRqr-1" value="&lt;pre style=&quot;text-align: right;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;8 структур данных JS&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="14.89" y="120" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Stack - по принципу LIFO&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
