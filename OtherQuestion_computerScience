@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:43:26.364Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ysxjM92uYZSwG4VEHQaW" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:43:38.091Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kyzQWHq_iYm23_H42B--" version="20.2.8" type="github" pages="2">
   <diagram id="3UJCgveRMn5TrkPPSegg" name="Page-1">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
           <mxGeometry x="323" y="30" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GKYuN85uZPgJe1WPFgC1-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;dependency enversion - высоуровневые веши не должны зависить от низкоуровневых&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="80" y="1040" width="270" height="40" as="geometry" />
+          <mxGeometry x="47.45" y="1050" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YvDEOuhgs-y0SPBjVRqr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YvDEOuhgs-y0SPBjVRqr-1" target="YvDEOuhgs-y0SPBjVRqr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,6 +229,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADMVR-J_UBHAiYYZ5xXO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADMVR-J_UBHAiYYZ5xXO-3" target="ADMVR-J_UBHAiYYZ5xXO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADMVR-J_UBHAiYYZ5xXO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADMVR-J_UBHAiYYZ5xXO-3" target="ADMVR-J_UBHAiYYZ5xXO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADMVR-J_UBHAiYYZ5xXO-3" value="&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;GIT&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
